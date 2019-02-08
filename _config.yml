@@ -1,0 +1,44 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Title
+name: Design research handbook
+subtitle: Tips, tools, processes and approaches for understanding the people we serve
+
+# When using this template with a project page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+#baseurl: ''
+baseurl: '/design-research-handbook'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Canadian Digital Service
+  url: https://digital.canada.ca
+author2:
+  name: Treasury Board of Canada Secretariat
+  url: https://www.canada.ca/en/treasury-board-secretariat.html
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl:
+logoalt:
+
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+
+
+# Style Variables
+brand_color: "#FFCC3D"
+
+# Offline caching
+offline_cache: false
+cache_name: DOCter-v1.1

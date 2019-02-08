@@ -1,0 +1,14 @@
+en:
+  home:
+    name: "Home"
+    url: "/home/"
+  contact:
+    name: "Contact"
+    url: "/contact/"
+fr:
+  home:
+    name: "Accueil"
+    url: "/accueil/"
+  contact:
+    name: "Coordonnées"
+    url: "/coordonnees/"
