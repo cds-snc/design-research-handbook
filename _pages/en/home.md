@@ -1,8 +1,9 @@
 ---
 layout: page
-title:  "Accueil"
-lang: fr
-permalink: "/accueil/"
-trans_url: "/home/"
+title:  "Home"
+lang: en
+permalink: "/home/"
+trans_url: "/accueil/"
 ---
-{% include accueil.md %}
+
+Home
