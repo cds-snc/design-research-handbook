@@ -11,7 +11,7 @@ var filesToCache = [
   // images
   '/design-research-handbook/assets/img/octocat.png',
   // pages
-  '/design-research-handbook/contact/','/design-research-handbook/accueil/','/design-research-handbook/home/','/design-research-handbook/coordonnees/',
+  '/design-research-handbook/contact/','/design-research-handbook/accueil/','/design-research-handbook/accueil/','/design-research-handbook/coordonnees/',
   // posts
   
 ];
