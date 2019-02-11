@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Public opinion research (POR) rules"
+title:  "Coming soon: Public opinion research (POR) rules"
 lang: en
 permalink: "/por/"
 category: "Best practices"
