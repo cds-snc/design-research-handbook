@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Google Drive for collaboration"
+title:  "Coming soon: Google Drive for collaboration"
 lang: en
 category: "Tools"
 permalink: "/google-drive/"

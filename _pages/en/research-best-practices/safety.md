@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Safety in the field"
+title:  "Coming soon: Safety in the field"
 lang: en
 permalink: "/safety/"
 category: "Best practices"

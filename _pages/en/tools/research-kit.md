@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Research kit"
+title:  "Coming soon: Research kit"
 lang: en
 category: "Tools"
 

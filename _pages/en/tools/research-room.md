@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Research room"
+title:  "Coming soon: Research room"
 lang: en
 category: "Tools"
 permalink: "/research-room/"

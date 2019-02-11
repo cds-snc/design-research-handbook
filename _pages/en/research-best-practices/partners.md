@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Welcoming partners to the team"
+title:  "Coming soon: Welcoming partners to the team"
 lang: en
 permalink: "/partners/"
 category: "Best practices"

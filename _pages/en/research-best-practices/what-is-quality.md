@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "What do we think quality research is?"
+title:  "Coming soon: What do we think quality research is?"
 lang: en
 permalink: "/quality-research/"
 category: "Best practices"

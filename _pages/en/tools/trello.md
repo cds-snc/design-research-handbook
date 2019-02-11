@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Trello for internal projects"
+title:  "Coming soon: Trello for internal projects"
 lang: en
 category: "Tools"
 permalink: "/trello/"

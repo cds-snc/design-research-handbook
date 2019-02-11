@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Recruiting participants"
+title:  "Coming soon: Recruiting participants"
 lang: en
 permalink: "/recruiting/"
 category: "Best practices"

@@ -1,11 +1,12 @@
 ---
 layout: page
-title:  "Privacy and consent"
+title:  "Coming soon: Privacy and consent"
 permalink: "/privacy/"
 category: "Best practices"
 trans_url: "/fr-needed/"
 ---
 
+<!-- 
 Welcome! 
 Before you begin research at CDS, there are some things to be aware of when doing user research in government and at Treasury Board. This guide outlines resources, processes, and questions that will guide you through a study in a way that is ethical, legal, compliant with policies and regulations, and consistent. 
 This guide is a work in progress – if you have any questions please contact a member of the policy or research team.
@@ -199,7 +200,7 @@ How can I maintain participants’ privacy throughout the research?
 
 
 
-
+-->
 
 
 
