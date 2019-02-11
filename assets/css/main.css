@@ -453,9 +453,10 @@ Desktop Styles
     }
 
     .main-content {
-        width: 67%;
-        float: right;
+        width: 64%;
+        float: left;
         margin-bottom: 120px;
+        margin-left: 18%;
     }
 
     /*

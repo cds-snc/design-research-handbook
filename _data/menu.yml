@@ -2,9 +2,21 @@ en:
   home:
     name: "Home"
     url: "/home/"
-  contact:
-    name: "Contact"
-    url: "/contact/"
+  about:
+    name: "About"
+    url: "/about/"
+  tools:
+    name: "Tools"
+    url: "/tools/"
+  best-practices:
+    name: "Research best practices"
+    url: "/research-best-practices/"
+  methods:
+    name: "Methodology-specific tips"
+    url: "/methods/"
+  processes:
+    name: "Processes"
+    url: "/processes/"
 fr:
   home:
     name: "Accueil"

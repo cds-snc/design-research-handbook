@@ -11,7 +11,7 @@ var filesToCache = [
   // images
   '/assets/img/octocat.png',
   // pages
-  '/qrr/','/bibliography/','/protected-files/','/field-safety/','/airtable/','/bibliography/','/channels/','/contact/','/design-researcher-job-desc/','/field-safety/','/qrr/','/hiring-process/','/home/','/interviewing-basics/','/bibliography/','/okrs/','/bibliography/','/por/','/privacy/','/prof-development/','/quantifying/','/recruiting-participants/','/team-meetings/','/think-talk/','/translation/','/contact/','/accueil/','/coordonnees/',
+  '/cds-tips/','/about-us/','/team-meetings/','/vision-objectives/','/why-not-users/','/your-role/','/home/','/interviewing/','/quantifying-attitudes/','/usability-testing/','/hiring-process/','/prof-development/','/progression-process/','/note-taking/','/partners/','/por/','/privacy/','/recruiting/','/safety/','/team-members/','/translation/','/quality-research/','/airtable/','/google-drive/','/library-bibliography/','/protected-files/','/research-kit/','/research-room/','/trello/','/accueil/','/coordonnees/','/fr-needed/',
   // posts
   
 ];
