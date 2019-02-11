@@ -7,13 +7,13 @@ category: "Best practices"
 trans_url: "/fr-needed/"
 ---
 
-## Tips for taking clearly biased notes
+### Tips for taking clearly biased notes
 - Journal
 - List your assumptions
 - Know what it is you want to hear
 - Call our reflections, interpretations and assumptions
 
-## Tips for taking really good notes
+### Tips for taking really good notes
 - Know the research questions
 - Create structures before hand
 - Only put "" around quotes
