@@ -8,52 +8,12 @@ trans_url: "/fr-needed/"
 ---
 
 
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 3.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-# 5 keys to interviewing
+### 5 keys to interviewing
 
 Colin, October 16
 
 
-# 1. Asking productive questions.
-
-_A palette of useful questions:_
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Untitled-document0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Untitled-document0.png "image_tooltip")
-
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Untitled-document1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Untitled-document1.png "image_tooltip")
-
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Untitled-document2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Untitled-document2.png "image_tooltip")
-
-
-_(From Steve Portigal's Interviewing Users)_
+### 1. Asking productive questions.
 
 **What about restating what they just said?**
 
@@ -64,7 +24,7 @@ Useful for giving yourself some time. Maybe awkward for the participant. Remembe
 Giving them a structure or example. What you're expecting in terms of content and detail. 
 
 
-# 2. Listening (the "rapport engine").
+### 2. Listening (the "rapport engine").
 
 
 
@@ -80,7 +40,7 @@ Giving them a structure or example. What you're expecting in terms of content an
 *   Avoiding interrupting.** **Let there be a little bit of silence. Adjust based on participant behavior. Give yourself enough time. 
 
 
-# 3. Manage the flow.
+### 3. Manage the flow.
 
 
 
@@ -99,7 +59,7 @@ Giving them a structure or example. What you're expecting in terms of content an
 *   Give people an opportunity to ask their own questions as well. Those questions can be really revealing.
 
 
-# 4. Don't only ask questions.
+### 4. Don't only ask questions.
 
 _Instead, ask people to:_
 
@@ -114,7 +74,7 @@ _Instead, ask people to:_
 *   Following your gut when you things go off the rails. 
 
 
-# 5. Look for patterns, not outliers.
+### 5. Look for patterns, not outliers.
 
 
 
@@ -124,4 +84,3 @@ _Instead, ask people to:_
 *   Come to conclusions, then analyze again.
 *   Don't analyze alone.
 
-<!-- Docs to Markdown version 1.0β14 -->
