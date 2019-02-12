@@ -1,5 +1,5 @@
 <h2>Table of contents</h2>
-{% assign mydocs = site.pages | where:"lang","en" | group_by: 'category' %}
+{% assign mydocs = site.pages | where:"lang","en" | where:"layout","page" | group_by: 'category' %}
 {% for cat in mydocs %}
 <h3>{{ cat.name | capitalize }}</h3>
     <ul>
