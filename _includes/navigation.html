@@ -1,3 +1,4 @@
+<h2>Table of contents</h2>
 {% assign mydocs = site.pages | where:"lang","en" | group_by: 'category' %}
 {% for cat in mydocs %}
 <h2>{{ cat.name | capitalize }}</h2>
