@@ -22,7 +22,6 @@ trans_url: "/fr-needed/"
 * Laptop bag
 * Digital voice recorder
 * Microphone (USB)
-* iPhone 5S (for mobile testing)
-* Huawei i60s Android (for mobile low-memory testing)
+* Variety of old iPhones and Android phones
 * Mr. Tappy camera and recording sled for mobile devices
 
