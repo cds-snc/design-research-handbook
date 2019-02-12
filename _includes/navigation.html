@@ -1,9 +1,9 @@
 <h2>Table of contents</h2>
-{% assign mydocs = site.pages | where:"lang","en" | where:"layout","page" | group_by: 'category' | sort: "title" %}
+{% assign mydocs = site.pages | where:"lang","en" | where:"layout","page" | group_by: 'category' %}
 {% for cat in mydocs %}
 <h3>{{ cat.name | capitalize }}</h3>
     <ul>
-      {% assign items = cat.items | sort: 'order' %}
+      {% assign items = cat.items | sort: 'title' %}
       {% for item in items %}
         <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
       {% endfor %}
