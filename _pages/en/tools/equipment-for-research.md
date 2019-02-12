@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Research kit"
+title:  "Equipment for research"
 lang: en
 category: "Tools"
 
