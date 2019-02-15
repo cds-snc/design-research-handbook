@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Coming soon: Usability testing"
+title:  "Usability testing"
 lang: en
 category: "Methods"
 permalink: "/usability-testing/"
@@ -18,12 +18,12 @@ Usability testing is observing people use a website (or other tool) while they c
 ### Resources
 
 #### From us
-[Example: Usability testing plans from the VAC project](https://docs.google.com/document/d/1GW9GhvWqLDscLOb_CP8y0pGmW_iZ8MaSnELb_5w4hd0/edit)
-[Example: Usability testing plans for the an IRCC sprint](https://docs.google.com/presentation/d/1V_fhCoBXGRApBt3AI8qg4PFaRGXyDUkQmQ2YNjKScXI/edit#slide=id.g36be40e022_0_10)
-[Community presentation on lightweight usability testing](https://docs.google.com/presentation/d/1L6r6fBTVVUiuaBWNwjv0LWAfiYHMYyGuR2lepad24Mo/edit?usp=drive_web&ouid=115428102159383580616)
+* [Example: Usability testing plans from the VAC project](https://docs.google.com/document/d/1GW9GhvWqLDscLOb_CP8y0pGmW_iZ8MaSnELb_5w4hd0/edit)
+* [Example: Usability testing plans for the an IRCC sprint](https://docs.google.com/presentation/d/1V_fhCoBXGRApBt3AI8qg4PFaRGXyDUkQmQ2YNjKScXI/edit#slide=id.g36be40e022_0_10)
+* [Community presentation on lightweight usability testing](https://docs.google.com/presentation/d/1L6r6fBTVVUiuaBWNwjv0LWAfiYHMYyGuR2lepad24Mo/edit?usp=drive_web&ouid=115428102159383580616)
 
 #### From others
-https://18f.gsa.gov/2018/11/20/introduction-to-remote-moderated-usability-testing-part-2-how/
-https://methods.18f.gov/interview-checklist/
-https://methods.18f.gov/usability-test-script/
+* [How to conduct usability testing from 18F](https://18f.gsa.gov/2018/11/20/introduction-to-remote-moderated-usability-testing-part-2-how/)
+* [Interview checklist from 18F](https://methods.18f.gov/interview-checklist/)
+* [Sample usability testing script](https://methods.18f.gov/usability-test-script/
 http://usabilityworks.com/consensus-on-observations-in-real-time-keeping-a-rolling-list-of-issues/
