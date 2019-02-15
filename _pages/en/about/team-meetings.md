@@ -24,7 +24,7 @@ _Ask Colin for calendar invitations to these meetings if you don't already have 
       * What they did last week
       * What they'll do in thenext week
       * Any blockers
-    * A topic of the week, which we plan on the kanban board, like:
+    * A topic of the week, which we plan on the [Trello board]({{ site.baseurl }}/kanban %}, like:
       * A retro
       * Best practices
       * Introduction to a new tool
@@ -33,7 +33,7 @@ _Ask Colin for calendar invitations to these meetings if you don't already have 
   * Attendees: Anyone interested in design research at CDS, not just researchers
   * Frequency: Every other week
   * Purpose: Share updates and discuss important issues
-  * Agenda: A presentation or workshop by a researcher about a topic of interest to non-researchers at CDS. We track coming presentations on the [Trello board]({{ site.baseurl }}{% link kanban/ %}) See this [Google Drive folder of past presentations](https://drive.google.com/drive/folders/1MLZZ14YNoGiWC-GagP7oW1oMbr1rJ4Yk).
+  * Agenda: A presentation or workshop by a researcher about a topic of interest to non-researchers at CDS. We track coming presentations on the [Trello board]({{ site.baseurl }}/kanban %}) See this [Google Drive folder of past presentations](https://drive.google.com/drive/folders/1MLZZ14YNoGiWC-GagP7oW1oMbr1rJ4Yk).
   
 * **One-on-ones with Colin weekly**
   * Attendees: You and Colin
@@ -47,7 +47,7 @@ _Ask Colin for calendar invitations to these meetings if you don't already have 
     
 * **Team lunch monthly** Totally optional. We got out to lunch every month or so as a team to chat without a set agenda.
 
-* **Team retreat quarterly** We meet for 4-5 hours toward the end of each quarter to reflect and plan for the next. See the [objectives setting process]({{ site.baseurl }}{% link objective/ %}) page for more details.
+* **Team retreat quarterly** We meet for 4-5 hours toward the end of each quarter to reflect and plan for the next. See the [objectives setting process]({{ site.baseurl }}/objectives) page for more details.
 
 ### Communication channels
 
