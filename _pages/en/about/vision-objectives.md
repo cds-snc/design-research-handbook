@@ -11,10 +11,10 @@ trans_url: "/fr-needed/"
 
 In addition to supporting CDS' delivery strategy, our team hopes:
 
-_By 2025, all major departments of the Government of Canada will:_
-- _conduct design research about key services (and related policy) monthly,_
-- _in a robust, deliberate, and ethical way,_
-- _that results in immediate changes to service delivery and governing policy._
+_To change government to serve people better, all major departments will:
+* conduct design research that informs key services (and related policy) monthly,
+* in a robust, deliberate, and ethical way,
+* that results in changes to service delivery and governing policy._
 
 This vision guides the objectives we set and key decisions we make.
 

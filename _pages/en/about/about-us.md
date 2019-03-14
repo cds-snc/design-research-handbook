@@ -10,59 +10,45 @@ trans_url: "/fr-needed/"
 Design research is foundational to creating products, services, and systems that respond to human needs. 
 
 ### Who we are
-
-#### Colin MacArthur
-Head of Design Research 
-All-the-things
-
-#### Mel Banyard
-Design Researcher
-Product: RCMP - Report a Cybercrime 
-
-#### Hillary Lorimer
-Design Researcher
-Product: CRA: Help Canadians w low income file taxes
-
-#### Mithula Naik
-Senior Design Researcher
-Product: Find relevant benefits for Veterans
-
+* Colin MacArthur (head of design)
+* Mithula Naik (senior design researcher)
+* Hillary Lorimer (design researcher)
+* Mel Banyard (design researcher)
+* Martha Edwards (design researcher)
 
 ### What we do
-Goal: Identify user needs that inform design (+dev)
-How
-- Planning research activities - helping frame the problem 
-- Conducting field research with end users - bringing the team along the user journey
-- Analyzing & synthesizing data - communicating the user story 
-- Evaluating & testing product improvements - helping build the right product
-Result: Products that better meet user needs
+We help product team's identify user needs that inform design and development.
+We do that by:
+- Planning research activities that bring clarify to the goals and problems at hand.
+- Conducting field research with end users, while bringing the team along for the journey.
+- Analyzing & synthesizing data, telling the story of people who use our services.
+- Evaluating & testing product improvements, helping our products continue to approve.
+When we do all those things well, we help our teams build products that serve people better.
 
 ### How we work with others
 
 #### Policy
-We work closely. Policy team 1) clears the bureaucracy so we can do our jobs 2) informs us of the policy landscape
+Policy helps us navigate the rules that affect research (like privacy and POR). They also help us understand the background and rationale for our work.
 
 #### Design
-Designers & researchers are two peas in a pod. Good UX can be attributed to this pairing.
+Designers & researchers are two peas in a pod. Designers are our co-researchers. Researchers are their co-designers. Our findings inform their work, we discuss design solutions together, and we help evaluate what gets built.
 
-#### Devs
-It’s imp to us that devs come along the user journey, understand user needs & co-create solutions
-
-#### Product
-Involve PMs in research activities to build the right product & share a compelling user story to the Partner
+#### Engineering and product
+Engineers and product managers give us feedback on session plans, come along for research sessions and (of course) use our reserach findings. At CDS, they're key partners in research.
 
 #### Outreach
-Working together to tell the story of CDS Research and the people’s lives we help improve.
+We work with our outreach team to tell the story of how research happens and who we help.
 
-### How we need your team's help
+### How we need your help
 
-### Commit to ensuring that items added to product backlog & sprint cycles are driven from real user research / and not team or partner assumptions 
-- Partners may not know why we do user research - work alongside your researcher to prove the value to them.
-- Fight to make sure you have a researcher on your team
+### Build things based on research, not your (or our partners') assumptions. 
+- Partners may not know why we do user research. Work alongside your researcher to prove the value to them.
+- Fight to make sure you have a researcher on your team.
+- Question why we're prioritizing things that aren't backed by research.
 
-### Get out of the office, often enough - seriously.
-Nothing is more powerful than being in the field and listening to the end user tell you about their needs or how your product is not meeting them! 
+### Get out of the office and talk to the people we serve, early and often.
+Nothing is more powerful than being in the field and listening to the end user tell you about their needs. Or how we aren't meeting them.
 
-### Be a research champion - involve yourself + improve your research skills
-- Attend the bi-weekly Research Community Meetings on Wednesday mornings where we share research work and improve CDS internal capacity for design research
-- Hang out with us, let’s get coffee :) 
+### Be a research champion. Involve yourself in reserach and improve your research skills.
+- Attend the bi-weekly research community meetings where we share research work and improve CDS internal capacity for design research.
+- Hang out with us. Let’s get coffee. :) 
