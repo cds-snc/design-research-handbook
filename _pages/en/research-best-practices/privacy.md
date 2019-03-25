@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Privacy and consent"
+lang: en
 permalink: "/privacy/"
 category: "Best practices"
 trans_url: "/fr-needed/"
