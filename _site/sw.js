@@ -11,7 +11,7 @@ var filesToCache = [
   // images
   '/assets/img/octocat.png',
   // pages
-  '/about-us/','/team-meetings/','/vision-objectives/','/why-not-users/','/your-role/','/home/','/interviewing/','/other-methods/','/usability-testing/','/hiring-process/','/prof-development/','/progression-process/','/note-taking/','/partners/','/por/','/privacy/','/recruiting/','/safety/','/team-members/','/translation/','/quality-research/','/airtable/','/research-kit/','/gcdocs/','/google-drive/','/library-bibliography/','/protected-files/','/research-room/','/trello/','/accueil/','/fr-needed/',
+  '/about-us/','/team-meetings/','/vision-objectives/','/why-not-users/','/your-role/','/home/','/interviewing/','/other-methods/','/usability-testing/','/por/','/privacy/','/safety/','/airtable/','/research-kit/','/gc-docs/','/google-drive/','/library-bibliography/','/protected-files/','/research-room/','/trello/','/accueil/','/fr-needed/',
   // posts
   
 ];

@@ -11,7 +11,6 @@ trans_url: "/fr-needed/"
 ### In sum
 * Use the following equipment to help you with your design research.
 * It's stored in the research listening room.
-* There is no formal check-in/check-out system. But if people don't return the equipment promptly, there will be.
 * Some equipment may not be set up or may be out of batteries. Allow time to check the equipment before you use it.
 
 ### Equipment
@@ -25,3 +24,4 @@ trans_url: "/fr-needed/"
 * Variety of old iPhones and Android phones
 * Mr. Tappy camera and recording sled for mobile devices
 
+_- Last updated by Colin on March 25, 2019_
