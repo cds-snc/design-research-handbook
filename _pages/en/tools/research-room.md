@@ -13,10 +13,10 @@ trans_url: "/salle-de-recherche/"
 It's room 14134, the small room near the outreach team.
 
 ### What's in the room?
-- For interviewing:
+For interviewing:
  - Two comfy chairs
  - A small laptop or coffee table
-- For usability testing:
+For usability testing:
  - A work table
  - Two fixed chairs
 
