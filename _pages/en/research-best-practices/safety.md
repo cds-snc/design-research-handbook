@@ -12,7 +12,7 @@ _Not rules, but suggestions to consider as you’re planning research._
 ### Planning
 - Include ethical and safety considerations in your research plan
 - Do some research into your participant group before you start recruiting. Where do they live? What are their norms?
-- Protect personal information (your own, just liki you would a participant's)
+- Protect personal information (your own, just like you would a participant's)
 - Arrange for appropriate transportation to and from the site.
 
 ### Before you head out
