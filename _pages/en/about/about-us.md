@@ -12,6 +12,7 @@ Design research helps build services that meet to human needs.
 ### Who we are
 * Colin MacArthur (head of design research)
 * Mithula Naik (senior design researcher)
+* Antoine Garcia-Suarez (design researcher)
 * Hillary Lorimer (design researcher)
 * Martha Edwards (design researcher)
 * Mel Banyard (design researcher)
