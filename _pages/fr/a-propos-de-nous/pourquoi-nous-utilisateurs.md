@@ -7,18 +7,15 @@ permalink: "/pourquoi-nous-utilisateurs/"
 trans_url: "/why-not-users/"
 ---
 
-These word choices seem minor, but they subtly influence what we do. They also signal our maturity to our peers and job candidates.
+Ce choix de mot semble insignifiant, mais il influence subtilement nos actions. Il signale également notre maturité à nos pairs et aux candidats à l’emploi.
 
-Let’s try to say…
-- *“usability testing” instead of “user testing.”* User testing implies we’re testing the users (we’re not). User testing also sounds like "user acceptance testing," which is not the same thing.
+  * Essayons de dire « tests de facilité d’emploi » plutôt que « test sur l’utilisateur ». Les tests sur l’utilisateur insinuent qu’on teste l’utilisateur (ce qui n’est pas le cas). Ils font également penser à des « essais d’acceptation par l’utilisateur », ce qui n’est pas la même chose.
+  * Optons pour « personnes » plutôt qu’« utilisateurs ». Pourquoi?
+    * Il y a plus de personnes que d’utilisateurs de nos systèmes. Il est facile d’oublier les autres identités plus importantes des personnes lorsqu’on se réfère à eux comme à des utilisateurs.
+    * « Utilisateur » est un terme imprécis. De quel utilisateur parle-t-on? Du public? Des fonctionnaires qui soutiennent le système?
+  * On devrait dire « conception centrée sur la personne » plutôt que « conception axée sur l’utilisateur ». Si nous essayons d’éviter de dire « utilisateurs », nous devrions également utiliser le terme de rechange à « conception axée sur l’utilisateur ».
+  * Parlons de « recherche en conception » plutôt que de « recherche sur les utilisateurs ». Si nous essayons d’éviter de dire « utilisateurs », nous devrions également utiliser le terme de rechange à « recherche sur les utilisateurs ».
 
-- *“people” instead of “users.”* Why? 
-    * People are more than users of our systems. When we refer to them as users, it's easy to forget their other, more important identities. 
-    * Users is an imprecise word. Which users? The public? The civil servants who support the system?
-- *“human-centred design” instead of “user-centred design.”* If we try to avoid saying users, we should also use the alternative to “user-entered design.”
-
-- *design research* instead of *user research*.” If we try to avoid saying users, we should also use the alternative to “user research."
-
-These aren’t absolute rules. There are still situations where it helps us to say “users,” “user-centred design.” But let’s be mindful of their downsides and alternatives.
+Ces règles ne sont pas absolues. Il existe toujours des situations où on a intérêt à dire « utilisateurs » et « conception centrée sur l’utilisateur ». Toutefois, soyons au courant des désavantages quant à l’utilisation de ces termes et des termes de rechange.
 
 _- Last updated by Colin on March 14, 2019_

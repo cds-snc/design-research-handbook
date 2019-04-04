@@ -9,87 +9,87 @@ trans_url: "/interviewing/"
 
 
 
-### What is interviewing?
-Interviewing is asking people a series of questions and asking for their response.
+### Qu’est-ce que l’entrevue?
+L’entrevue consiste à poser à des personnes une série de questions et à leur demander d’y répondre.
 
-### Key elements of usability testing
+### Éléments clés des tests de facilité d’emploi
 
-### 1. Ask productive questions.
+### 1. Posez des questions productives.
 
-[Steve Portigal offers](https://portigal.com/seventeen-types-of-interviewing-questions/) the following palette of useful questions:
-* **Ask about sequence** “Describe a typical workday. What do you do when you first sit down at your station?-Then what do you do next?”
-* **Ask about quantity** “How many files would you delete when that happens?”
-* **Ask for specific examples** “What is the last movie that you streamed?” – Compare this to “What movies do you stream?” The specific is easier to answer than the general and becomes a platform for follow up questions.
-* **Ask for the complete list** “What are all the different apps you have installed on your smartphone?” – This requires a series of follow up questions, e.g., “What else?” because few people will be able to generate an entire list of something with some prompting.
-* **Ask about relationships** “How do you work with new vendors?” – This general question is especially appropriate when you don’t even know enough to ask a specific question (e.g. in comparison to the earlier example about streaming movies). Better to start general than to be presumptive with a too-specific question.
-* **Ask about organizational structure** “Who does that department report to?”
+[Steve Portigal propose](https://portigal.com/seventeen-types-of-interviewing-questions/) la palette de questions utiles qui suit.
+* Posez des questions liées à la séquence : « Décrivez une journée typique de travail. Que faites-vous lorsque vous vous asseyez pour la première fois dans votre station? Que faites-vous ensuite? »
+* Posez une question sur la quantité : « Combien de dossiers supprimeriez-vous si cela arrive? »
+* Demandez au participant des exemples précis : « Quel est le dernier film que vous avez écouté en direct? »  Comparez la réponse à celle obtenue pour la question suivante : « Quel type de films écoutez-vous en direct? » Il est plus facile de répondre aux questions précises qu’aux questions générales. De plus, elles facilitent les questions de suivi.
+* Demandez pour la liste complète : « Quelles sont les différentes applications que vous avez installées sur votre téléphone intelligent? » Cette question nécessite une série de questions de suivi, comme « Quoi d’autre? », car quelques personnes seront en mesure d’énumérer une liste complète lorsqu’on le leur demande.
+* Posez des questions sur les relations : « Quelle est la relation de travail avec les nouveaux fournisseurs? » Cette question générale est particulièrement appropriée lorsque vous ne possédez pas suffisamment de connaissances pour poser une question précise (comparativement, par exemple, à l’exemple ci-dessus sur l’écoute de films en direct). Il vaut mieux poser une question générale au départ, plutôt que d’être présomptueux et d’en poser une qui est trop précise.
+* Renseignez-vous sur la structure organisationnelle : « À qui le ministère rend-il des comptes? »
 
-### Questions to probe on what’s unsaid
-* **Ask for clarification** “When you refer to “that” you are talking about the newest server, right?”
-* **Ask about code words/native language** “Why do you call it the ‘Batcave?'”
-* **Ask about emotional cues** “Why do you laugh when you mention ‘Best Buy?'”
-* **Ask why** “I’ve tried to get my boss to adopt this format, but she just won’t do it-” “Why do you think she hasn’t?”
-* **Probe delicately** “You mentioned a difficult situation that changed your usage. Can you tell us what that situation was?”
-* **Probe without presuming** “Some people have very negative feelings about Twitter, while others don’t. What is your take?” – Rather than the direct “What do you think about Twitter?” or “Do you like Twitter?” this question introduces options that aren’t tied to the interviewer or the interviewee.
-* **Explain to an outsider** “Let’s say that I’ve just arrived here from another decade, how would you explain to me the difference between smartphones and tablets?”
-* **Teach another** “If you had to ask your son to operate your system, how would you explain it to him?”
+### Questions pour examiner le non-dit
+* Demandez des précisions : « Quand vous dites “cela”, vous parlez du serveur le plus nouveau, n’est-ce pas? »
+* Posez des questions sur le langage codé ou la langue maternelle : « Pourquoi l’appelez-vous la “Batcave”? »
+* Posez des questions à propos des signaux affectifs : « Pourquoi riez-vous lorsqu’on dit “Best Buy”? »
+Cherchez à savoir « pourquoi » : « J’ai essayé de convaincre mon patron d’adopter ce format, mais elle ne le fait pas. Pourquoi pensez-vous qu’elle n’est pas allée de l’avant? »
+* Approfondissez le sujet de façon délicate : « Vous avez mentionné une situation difficile qui a changé votre utilisation. Pouvez-vous nous l’expliquer? »
+* Approfondissez sans faire de suppositions : « Certaines personnes sont très critiques à l’égard de Twitter, tandis que d’autres ne le sont pas. Qu’en pensez-vous? » Il vaut mieux poser la question ainsi plutôt que d’être direct en formulant la question de la façon suivante : « Que pensez-vous de Twitter? » ou « Aimez-vous Twitter? ». Cette question présente des options qui ne sont pas liées à la personne qui dirige l’entrevue ou à la personne interrogée.
+* Expliquez la situation à un étranger : « En supposant que je viens d’arriver d’une autre décennie, comment m’expliqueriez-vous la différence entre les téléphones intelligents et les tablettes? »
+* Apprenez l’un et l’autre : « Si vous deviez demander à votre fils d’exploiter votre système, comment lui en expliqueriez-vous le fonctionnement? »
 
-### 2. Listen to what people say (the "rapport engine").
-*   Ask your question and then stop.
-*   Maintain eye contact and open body language.
-*   Show you are listening.
- *   Ask follow-up questions.
- *   Reference earlier statements. "Earlier you said that…"
- *   Circle back when necessary. "I want to go back to what you said earlier."
-*   Be careful about your body language (like nodding) and sounds (like "mmm-hmm"). You want to balance encouraging participants with seeming like you're judging their statements.
-*   Be selective about when you talk about yourself or your opinions. Remember, this interview is about them, not you.
-*   Avoiding interrupting. Let there be a little bit of silence. 
+### 2. Écoutez les personnes (le « moteur de bonnes relations »).
+* Posez votre question, puis ne dites plus rien.
+* Gardez le contact visuel et assurez-vous de maintenir un langage du corps ouvert.
+* Montrez que vous écoutez.
+* Posez des questions de suivi.
+* Faites référence à des déclarations antérieures : « Plus tôt, vous aviez dit que [...] »
+* Au besoin, faites un retour : « J’aimerais revenir sur ce que vous aviez dit plus  tôt. »
+* Faites attention à votre langage corporel (comme les hochements de tête) et aux * sons que vous émettez (comme les « mmm-hmm »). Il faut trouver un équilibre entre * le fait d’encourager les participants et le fait de paraître critique à l’égard de  leurs propos.
+* Soyez parcimonieux dans le choix du moment où vous parlez de vous-même et de vos et non vous.
+* Évitez d’interrompre le participant. Laissez un peu de place au silence.
 
 
 
-### 3. Manage the flow.
-*   Progress between phases:
- *   Warming up
- *   Establishing the basics
- *   Diving deeper
- *   Key questions
- *   Summing up
- *   Reflecting and verifying
-*   When you're changing topic, say so.
-*   Let participants be winding and pick up disparate threads later.
-*   Let participants know what your goal or "arc" for the session is.
-*   Give people an out if they get uncomfortable.
-*   Give people an opportunity to ask their own questions as well. Those questions can be revealing.
+### 3. Gérez le flot.
+* Faites du progrès entre les phases :
+  * échauffement;
+  * établissement des bases;
+  * approfondissement;
+  * questions clés;
+  * résumé;
+  * réflexion et vérification.
+* Lorsque vous changez de sujet, indiquez-le.
+* Laissez les participants respirer et revenez sur les différents fils conducteurs plus tard.
+* Indiquez aux participants votre objectif ou votre « arc » pour la séance.
+* Offrez une sortie aux personnes si elles deviennent mal à l’aise.
+* Laissez aux personnes l’occasion de poser leurs propres questions également. Celles-ci peuvent être révélatrices.
 
-### 4. Don't only ask questions.
+### 4. Ne faites pas que poser des questions.
 
-_Instead, ask people to:_
-*   Complete tasks.
-*   Get reactions to a sketch, website or objects.
-*   Sequence cards or sticky notes that represent their experience.
-*   Write down a few key points.
-*   If you can watch them complete a task.
+Demandez plutôt aux personnes de :
+* réaliser des tâches;
+* réagir à une esquisse, à un site Web ou à un objet;
+* remplir des cartes de séquence ou des papillons adhésifs qui décrivent leur expérience et
+* écrire quelques points clés.
+* Si vous pouvez, observez-les pendant qu’ils réalisent une tâche.
 
-### 5. Look for patterns, not outliers.
-*   Use as close to verbatim notes as you can.
-*   Focus on what you heard most frequently, not what was most interesting.
-*   Talk about the diversity of answers, not just the most memorable one.
-*   Come to conclusions, then analyze again.
-*   Don't analyze alone.
+### 5. Cherchez des tendances, et non des anomalies.
+* Utilisez des notes verbatim autant que vous pouvez.
+* Concentrez-vous sur ce que vous avez entendu le plus souvent, et non ce qui était le plus intéressant.
+* Discutez de la diversité des réponses, et non seulement de celle qui était la plus mémorable.
+* Tirez vos conclusions, puis analysez-les à nouveau.
+* Ne faites pas l’analyse tout seul.
 
-### Tips for conducting interviews at CDS
-* Follow our [guidelines for respecting participants' privacy]({{ site.baseurl }}/privacy). Work with our policy team to create an ATIP-approved consent form before you get started. Speak to the policy analyst on your product team or ask Colin for more help.
-* Interviewing, as part of user research, is generally exempt from [Government of Canada Public Opinion Research regulation](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#toc3). But follow [our POR tips]({{ site.baseurl }}/por) to steer clear of potential problems.
-* You can use our [equipment]({{ site.baseurl}}/research-kit) and/or [listening room]({{ site.baseurl }}/research-room) for interviews. 
+### Astuces pour effectuer des entrevues au SNC
+Respectez nos [lignes directrices pour assurer la protection des renseignements personnels des participants]({{ site.baseurl }}/protection-des-renseignements-personnels). Collaborez avec notre équipe de la politique pour créer un formulaire de consentement qui est conforme à l’accès à l’information et à la protection des renseignements personnels (AIPRP) avant de commencer. Pour obtenir de l’aide, consultez l’analyste des politiques de votre équipe de produit ou Colin.
+Les entrevues réalisées dans le cadre de la recherche sur les utilisateurs sont généralement exemptées du [Règlement sur les marchés de recherche sur l’opinion publique du gouvernement du Canada](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#toc3). Toutefois, soyez à l’affût [de nos astuces sur la ROP]({{ site.baseurl }}/rop) pour éviter d’éventuelles difficultés.
+Vous pouvez vous servir de notre [équipement]({{ site.baseurl}}/equipment-de-recherche) ou de notre [salle d’écoute]({{ site.baseurl }}/salle-de-recherche) pour les entrevues.
 
-### Resources
+### Ressources
 
-#### From others
+#### Provenant de sources externes
 * ["Building empathy with stakeholder interviews" from 18F](https://18f.gsa.gov/2016/06/20/build-empathy-with-stakeholder-interviews-part-1-preparation/)
 * ["Tips for capturing the best data from interviews" from 18F](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/)
 * Portigal, S. (2013). Interviewing users: how to uncover compelling insights. Rosenfeld Media. (In our [library]({{ site.baseurl }}/library-bibliography).)
 
-#### From us
+#### Provenant de l’interne
 * ["Five keys to interviewing" research community meeting](https://docs.google.com/document/d/10yAV4DzfJfwwg9-9JirBguo3eMxuZPw6bigbfSDUqhQ/edit?usp=drive_web&ouid=115428102159383580616)
 
-_- Last updated by Colin on March 14, 2019_
+_- La dernière mise à jour a été effectuée par Colin le 14 mars 2019._

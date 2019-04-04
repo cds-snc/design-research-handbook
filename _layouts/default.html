@@ -28,13 +28,13 @@
             <img class="logo" src="{{ site.logourl }}" alt="{{ site.logoalt }}">
           {% endif %}
           <h1 class="site-title"><a class="title-link" href="{{ site.baseurl }}{{ site.data.translations[page.lang].homepage-slug }}">{{site.data.translations[page.lang].site-name }}</a></h1>
-          <!--<h2 class="float-right"><a href="{{ site.baseurl }}{{ page.trans_url }}">{{ site.data.translations[page.lang].language }}</a></h2>-->
+          <h2 class="float-right"><a href="{{ site.baseurl }}{{ page.trans_url }}">{{ site.data.translations[page.lang].language }}</a></h2>
         </div>
       </header>
 
       <div class="wrap content">
 
-       <!--{% include sidebar.html %}--> 
+       <!--{% include sidebar.html %}-->
 
         <section id="main" class="main-content" role="main">
           {{ content }}

@@ -7,26 +7,22 @@ permalink: "/classeur-a-tiroirs-protege/"
 trans_url: "/protected-files/"
 ---
 
-*We put papers with protected personal information in a secure filing cabinet.*
+*Nous entreposons les dossiers contenant des renseignements personnels protégés dans un classeur à tiroirs protégé.*
 
-### How to find the protected filing cabinet
-Ask any researcher for the location of the secure filing cabinet in your office. They'll also know how to operate the lock.
+### Comment trouver le classeur à tiroirs protégé
+Demandez à n’importe quel chercheur où se trouve le classeur à tiroirs protégé au bureau. Le chercheur sait également comment actionner le mécanisme de verrouillage.
 
-### What we put in the protected filing cabinet
-Any printed material that's [protected information]({{site.baseurl}}/privacy), including:
-- Research participant rosters (including names, email addresses, phone numbers)
-- Raw research notes
-- Research session recordings
-- Job interviewee notes or evaluations
+### Ce que nous entreposons dans le classeur à tiroirs protégé
+Tous les documents imprimés qui représentent de [renseignements protégés]({{site.baseurl}}/protection-des-renseignements-personnels), dont les suivants : les répertoires de participants de recherche (dont les noms, les adresses courriel et les numéros de téléphone), les notes de recherche brutes, les enregistrements des séances de recherche et les notes sur les personnes interrogées ou les évaluations à leur sujet.
 
-### What we don't put in the cabinet
-- You can store papers that aren't protected at your desk or in your locker.
-- You can store protected, online information in [GC Docs]({{site.baseurl}}/gc-docs).
-- Any non-protected files can go on [Google Drive]({{site.baseurl}}/google-drive).
-- Classified (like "secret" or "topic secret" documents) can't go in any of our systems or filing cabinets. Refer to TBS' guidance on handling it.
+### Ce que nous n’entreposons pas dans le classeur
+- Vous pouvez entreposer les documents non protégés dans votre bureau ou votre casier.
+- Vous pouvez stocker les renseignements protégés en ligne dans [GC Docs]({{site.baseurl}}/gc-docs-fr).
+- Tous les documents non protégés peuvent être stockés dans [Google Drive]({{site.baseurl}}/google-drive-fr).
+- Les documents classifiés (comme « secret » et « très secret ») ne peuvent être déposés dans aucun de nos systèmes ou de nos classeurs à tiroirs. Veuillez vous référer aux directives du SCT pour savoir comment les traiter.
 
-### Who uses the cabinet when
-- **You are responsible for returning materials to the cabinet as soon as you're done using them.**
-- You also need to make sure that it's locked when you're done using it.
+### Qui utilise le classeur et quand
+- **Vous êtes responsable de remettre les documents dans le classeur dès que vous avez fini de les consulter.**
+- Vous devez également vous assurer de le laisser verrouillé lorsque vous avez terminé de vous en servir.
 
-_- Last updated by Colin on March 25, 2019_
+_- La dernière mise à jour a été effectuée par Colin le 25 mars 2019._

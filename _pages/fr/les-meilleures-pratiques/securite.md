@@ -7,32 +7,32 @@ category: "Les meilleures pratiques"
 trans_url: "/safety/"
 ---
 
-_Not rules, but suggestions to consider as you’re planning research._
+_Il ne s’agit pas de règles, mais de suggestions à prendre en compte au cours de la planification de recherche._
 
-### Planning
-- Include ethical and safety considerations in your research plan
-- Do some research into your participant group before you start recruiting. Where do they live? What are their norms?
-- Protect personal information (your own, just liki you would a participant's)
-- Arrange for appropriate transportation to and from the site.
+### Planification
+* Celle-ci comprend des considérations d’éthique et de sécurité dans votre plan de recherche.
+* Étudiez votre groupe de participants avant de commencer le recrutement. Où habitent les participants? Quelles sont leurs normes?
+* Protégez les renseignements personnels (les vôtres, tout comme vous protégeriez ceux d’un participant).
+* Organisez un transport adéquat à destination du site ou en provenance de celui-ci.
 
-### Before you head out
-- Don’t research without a buddy (both in-office and in-field). 
-- Do a research 101 session with your team. Listen to their questions and concerns so they can be more comfortable in the field.
-- Discuss any concerns you have about your safety with teammates.
- 
-### During the session
-- Make your role clear to the participant.
-- Communicate your expectations and limitations clearly. Is there anything you *don't* want participants to do?
-- Make sure the participant knows they can leave or refuse to answer questions anytime.
-- Similarly, do not feel obligated to answer all questions from participants.
-- Stay in communication with the people managing the space you’re in (where applicable).
-- Have a way of discretely communicating that you’re uncomfortable to your team, like a "codeword".
+### Avant de partir
+* N’effectuez pas de recherche sans l’aide d’un collègue (autant au bureau que sur le terrain).
+* Réalisez une séance de recherche 101 avec votre équipe. Écoutez leurs questions et leurs préoccupations pour vous assurer qu’ils sont plus à l’aise sur le terrain.
+* Discutez avec vos collègues de toutes vos préoccupations liées à la sécurité.
 
-### Afterwards
-Check in with yourself after fieldwork. How are you feeling? Do you need some time off?
+### Pendant la séance
+* Assurez-vous de clarifier votre rôle au participant.
+* Faites part de vos attentes et de vos limites de manière claire. Y a-t-il un interdit par rapport à ceux que les participants peuvent faire?
+* Assurez-vous que les participants savent qu’ils peuvent partir ou refuser de répondre à des questions en tout temps.
+* De même, ne vous sentez pas obligé de répondre à toutes les questions des participants.
+* Restez en contact avec les personnes qui gèrent l’espace que vous occupez (le cas échéant).
+* Prévoyez une manière de communiquer discrètement avec votre équipe si vous êtes mal à l’aise, par l’usage d’un « mot codé » par exemple.
 
-### Just in case
-- Tell someone where you’re going before you leave.
-- Know how to contact security or police in your location.
+### Par la suite
+Faites une introspection après les travaux sur le terrain. Comment vous sentez-vous? Avez-vous besoin d’un congé?
 
-_- Last updated by Colin on March 25, 2019_
+### Dans l’éventualité
+* Indiquez à quelqu’un où vous allez avant de partir.
+* Sachez comment communiquer avec la sécurité ou la police là où vous vous situez.
+
+_- La dernière mise à jour a été effectuée par Colin le 25 mars 2019._

@@ -7,31 +7,28 @@ permalink: "/trello-fr/"
 trans_url: "/trello/"
 ---
 
-*We use Trello to track research team internal projects.*
+*Nous nous servons de Trello pour suivre les projets internes de l’équipe de recherche.*
 
 ### How to find Trello
-- Log into Trello via your CDS Google account.
-- View our [Trello board](https://trello.com/b/k8wdSP3W/research-community-projects).
-- If you need to be able to edit cards, ask Colin for an invitation.
+- Connectez-vous à Trello à l’aide de votre compte Google du SNC.
+- Consultez notre [tableau Trello](https://trello.com/b/k8wdSP3W/research-community-projects).
+- Si vous devez être en mesure de modifier des cartes, demandez une invitation à Colin.
 
-### What we put on Trello
-Trello is where we track basic information about ongoing, *non-product-specific projects*. We track information like: 
-- The name of the project (example: "updating the consent form generator")
-- Who's taking the lead on it
-- Notes on project progress
+### Ce que nous déposons dans Trello
+Trello permet de suivre les renseignements de base à propos des projets continus, qui ne sont pas propres à un produit. Voici les renseignements que nous suivons : le nom du projet (exemple : « mise à jour du générateur de formulaires de consentement »), la personne responsable du projet et des notes sur le progrès du projet.
 
-### What we don't put on Trello
-Like Google Drive or Airtable, Trello can't hold [protected data]({{site.baseurl}}/privacy). Store this information in [GCDocs]({{site.baseurl}}/gc-docs) or our [secure filing cabinet]({{site.baseurl}}/protected-files). 
+### Ce que nous ne déposons pas dans Trello
+Comme c’est le cas avec Google Drive ou Airtable, Trello ne peut contenir des [données protégées]({{site.baseurl}}/protection-des-renseignements-personnels). Stockez ces renseignements dans [GCDocs]({{site.baseurl}}/gc-docs-fr) ou entreposez-les dans notre [classeur à tiroirs protégé]({{site.baseurl}}/classeur-a-tiroirs-protege).
 
-### Who uses Trello when
+### Qui utilise Trello et quand
 - **Researchers are responsible for updating their project cards.**
-- Enter projects as you start working on them.
-- Update the project card as you do work on the project.
-- Move it to the "done" column when you're done with it.
-- Colin will check Airtable for completeness every week or so.
+- Les chercheurs sont responsables de la mise à jour de leurs cartes de projet.
+- Dès que vous commencez à travailler sur des projets, saisissez-les.
+- Mettez à jour la carte de projet au fur et à mesure de l’avancement des travaux qui y sont associés.
+- Déplacez le projet dans la colonne « terminé » lorsque vous l’achevez.
+- Colin consultera Airtable environ une fois par semaine pour vérifier la complétude.
 
-### Why do we do this?
-Trello serves three purposes:
-- It keeps us abreast of each others work. It saves Colin and others from asking what you're doing, when.
-- We use it to check against our progress on [our key results]
-_- Last updated by Colin on March 25, 2019_
+### Pourquoi effectuons-nous ces démarches?
+Trello remplit trois objectifs : il nous garde informés des travaux de chacun, il évite à Colin et à d’autres intervenants de demander ce que vous faites et quand vous le faites et il nous permet de vérifier notre progrès par rapport à [nos résultats clés].
+
+_- La dernière mise à jour a été effectuée par Colin le 25 mars 2019._

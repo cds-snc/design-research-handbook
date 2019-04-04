@@ -7,53 +7,47 @@ permalink: "a-propos-de-nous/"
 trans_url: "/about-us/"
 ---
 
-Design research helps build services that meet to human needs. 
+La recherche conceptuelle permet de créer des services qui répondent aux besoins humains.
 
-### Who we are
-* Colin MacArthur (head of design research)
-* Mithula Naik (senior design researcher)
-* Hillary Lorimer (design researcher)
-* Martha Edwards (design researcher)
-* Mel Banyard (design researcher)
+### Qui nous sommes
+* Colin MacArthur (chef de recherche en conception)
+* Mithula Naik (chercheuse principale en conception)
+* Hillary Lorimer (chercheuse en conception)
+* Martha Edwards (chercheuse en conception)
+* Mel Banyard (chercheuse en conception)
 
-### What we do
-We help product team's identify user needs that inform design and development.
-We do that by:
-- Planning research activities that bring clarify to the goals and problems at hand.
-- Conducting field research with end users, while bringing the team along for the journey.
-- Analyzing & synthesizing data, telling the story of people who use our services.
-- Evaluating & testing product improvements, helping our products continue to approve.
-When we do all those things well, we help our teams build products that serve people better.
+### Ce que nous faisons
+Nous aidons l’équipe de produit à cerner les besoins d’utilisateur qui éclairent la conception et le développement. Nous offrons cette aide grâce aux démarches suivantes : la planification des activités de recherche qui précisent les objectifs et les difficultés à aborder, la réalisation de recherches sur le terrain avec des utilisateurs finaux en compagnie de l’équipe tout au long du parcours, l’analyse et la synthèse des données et le récit sur les personnes qui utilisent les services, et l’évaluation et la mise à l’essai des améliorations des produits pour en assurer l’évolution. Lorsque nous accomplissons bien ces tâches, nous aidons notre équipe à créer des produits qui assurent une prestation de services améliorée aux personnes.
 
-### How we work with others
+### Notre façon de travailler avec les autres
 
-#### Policy
-Policy helps us navigate rules that affect research (like privacy and POR regulations). They also help us understand the background and rationale for our products.
+#### Politiques
+Les politiques nous aident à nous retrouver dans les règles qui ont une incidence sur la recherche (comme le Règlement sur la protection des renseignements personnels et le Règlement sur les marchés de recherche sur l’opinion publique [ROP]). Elles nous permettent également de comprendre le contexte des produits et leur justification.
 
-#### Design
-Designers and researchers are two peas in a pod. Designers are our co-researchers. Researchers are their co-designers. Research informs designer's work. We discuss ideas together. And researchers help evaluate what gets built.
+#### Conception
+Les concepteurs et les chercheurs se ressemblent comme deux gouttes d’eau. Les concepteurs sont nos co-chercheurs et les chercheurs sont leurs co-concepteurs. La recherche éclaire les travaux du concepteur. Nous discutons des idées ensemble et les chercheurs aident à déterminer le produit qui sera créé.
 
-#### Engineering and product
-Engineers and product managers come along for research and use our findings. At CDS, they're key partners in research.
+#### Ingénierie et produit
+Les ingénieurs et les gestionnaires de produit sont intéressés par la recherche et se servent de nos conclusions. Ils sont des partenaires clés du Service numérique canadien (SNC) en matière de recherche.
 
-#### Outreach
-We work with our outreach team to tell the story of how research happens and who we help.
+#### Sensibilisation
+Il y a une collaboration avec l’équipe de sensibilisation pour raconter le récit de réalisation de la recherche et pour mentionner les intervenants que nous aidons.
 
-### How we need other teams to help
+### La manière par laquelle d’autres équipes peuvent aider
 
-**Build things based on research, not your (or our partners') assumptions.**
+**Créez en fonction de la recherche, et non vos hypothèses (ou celles des partenaires).**
 
-- Partners may not know why we do user research. Work alongside your researcher to prove the value to them.
-- Fight to make sure you have a researcher on your team.
-- Question why we're prioritizing things that aren't backed by research.
+- Les partenaires peuvent ne pas savoir pourquoi nous réalisons une recherche sur les utilisateurs. Collaborez avec votre chercheur pour leur en prouver la valeur.
+- Insistez pour avoir un chercheur dans votre équipe.
+- Remettez en question le fait que nous accordons la priorité à certains éléments qui ne sont pas appuyés par des travaux de recherche.
 
-**Get out of the office and talk to the people we serve, early and often.**
+**Sortez du bureau et allez parler aux personnes auxquelles nous offrons nos services, tôt et souvent.**
 
-Nothing is more powerful than being in the field and listening to the end user tell you about their needs. Or how we aren't meeting them.
+Aucune démarche n’est aussi efficace que d’être sur le terrain et écouter l’utilisateur final parler de ses besoins ou du fait que nous ne le rencontrons pas.
 
-**Be a research champion. Involve yourself in research and improve your research skills.**
+**Soyez un champion de la recherche, impliquez-vous et améliorez vos compétences en la matière.**
 
-- Attend the bi-weekly research community meetings. 
-- Hang out with us. Let’s get coffee. :) 
+- Participez aux réunions du milieu de la recherche qui ont lieu toutes les deux semaines.
+- Sortez avec nous. Allons prendre un café.
 
-_- Last updated by Colin on March 14, 2019_
+_- La dernière mise à jour a été effectuée par Colin le 14 mars 2019._

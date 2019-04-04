@@ -7,27 +7,22 @@ permalink: "/gc-docs-fr/"
 trans_url: "/gc-docs/"
 ---
 
-*We put files with protected personal information on GCDocs.*
+*Nous avons stocké des dossiers contenant des renseignements personnels protégés sur GCdocs.*
 
-### How to get to GCDocs
-- On your TBS computer, double click the "GCDOCs" icon on your desktop.
-- If you're not on the TBS network, you will have to connect to the VPN before your open GCDocs.
+### Comment accéder à GCdocs
+- Sur votre ordinateur du SCT, cliquez deux fois sur l’icône « GCdocs » se trouvant sur votre bureau.
+- Si vous n’êtes pas sur le réseau du SCT, vous devrez vous connecter au réseau privé virtuel avant d’ouvrir GCdocs.
 
-### What we put on GCDocs
-Any digital material that's [protected information]({{site.baseurl}}/privacy), including:
-- Research participant rosters (including names, email addresses, phone numbers)
-- Raw research notes
-- Research session recordings
-- Job interviewee notes or evaluations
+### Ce que nous stockons sur GCdocs
+Tous les documents numériques qui représentent de [prenseignements protégés]({{site.baseurl}}/protection-des-renseignements-personnels), dont les suivants : les répertoires de participants de recherche (dont les noms, les adresses courriel et les numéros de téléphone), les notes de recherche brutes, les enregistrements des séances de recherche et les notes sur les personnes interrogées ou leurs évaluations.
 
-### What we don't put in GCDocs
-- Put non-protected files (like research plans or reports) in [Google Drive]({{site.baseurl}}/google-drive).
-- Store protected papers in our [locked filing cabinet]({{site.baseurl}}/protected-files).
-- Classified (like "secret" or "topic secret" documents) can't go in any of our systems or filing cabinets. Refer to TBS' guidance on handling it.
+### Ce que nous ne stockons pas sur GCdocs
+- Stockez les dossiers non protégés (comme les plans ou rapports de recherche) dans [Google Drive]({{site.baseurl}}/google-drive-fr).
+- Entreposez les documents protégés dans notre [classeur à tiroirs verrouillé]({{site.baseurl}}/classeur-a-tiroirs-protege).
+- Les documents classifiés (comme « secret » et « très secret ») ne peuvent être déposés dans aucun de nos systèmes ou de nos classeurs à tiroirs. Veuillez vous référer aux directives du SCT pour savoir comment les traiter.
 
-### Who uses GCDocs when
-- **You are responsible for storing all files with protected information on your TBS computer or GCDocs.**
-- Be careful not to store participant or research data on your MacBook.
+### Qui utilise GCdocs et quand
+- **Vous êtes responsable de stocker tous les dossiers avec des renseignements protégés sur votre ordinateur du SCT ou sur GCdocs.**
+- Soyez prudents et ne stockez pas les données sur les participants ou les données de recherche sur votre MacBook.
 
-_- Last updated by Colin on March 25, 2019_
-
+_- La dernière mise à jour a été effectuée par Colin le 25 mars 2019._

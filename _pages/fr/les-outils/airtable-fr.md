@@ -7,32 +7,28 @@ permalink: "/airtable-fr/"
 trans_url: "/airtable/"
 ---
 
-*We use Airtable to track key data about the studies we run.*
+*Nous nous servons d’Airtable pour suivre des données clés sur les études que nous réalisons.*
 
-### How to get to Airtable
-- Visit [our research studies base](https://airtable.com/shrlghN7jPJCj7lbf).
-- If you need to be able to edit records, ask Colin for an invitation.
+### Comment accéder à Airtable
+- Visitez  [notre base d’études de recherche](https://airtable.com/shrlghN7jPJCj7lbf).
+- Si vous devez être en mesure de modifier des dossiers, demandez une invitation à Colin.
 
-### What we put on Airtable
-Airtable is where we track basic details about what research we conduct where. For each study, we collect information about:
-- The product and research question
-- The number of participants
-- A breakdown of participants by primary language, use of assistive technology, etc.
-- Which team members take part in the research
+### Ce que nous déposons dans Airtable
+Nous utilisons Airtable pour suivre des détails sur le type de recherches que nous effectuons et sur leur emplacement. Pour chaque étude, nous recueillons des renseignements à propos des éléments suivants : le produit et la question de recherche, le nombre de participants, une ventilation des participants par langue maternelle et l’utilisation de la technologie d’assistance, entre autres, et les membres de l’équipe qui font partie de la recherche.
 
-### What we don't put on Airtable
-- Anything that's [protected information]({{site.baseurl}}/privacy), including:
-    - Research participant rosters (including names, email addresses, phone numbers)
-    - Raw research notes
-    - Research session recordings
-    - Job interviewee notes or evaluations
-    - Store this information in [GCDocs]({{site.baseurl}}/gc-docs) or our [secure filing cabinet]({{site.baseurl}}/protected-files). 
-- We don't track internal projects on Airtable. Instead, put those projects on [Trello]({{site.baseurl}}/trello).
+### Ce que nous ne déposons pas sur Airtable
 
-### Why do we do this?
-Airtable serves three purposes:
-- It keeps us abreast of each others work. It saves Colin and others from asking what you're doing, when.
-- We use it tochecke against our progress on [our key results]({{site.baseurl}}/vision-objectives).
-- It helps us answer basic, statistical questions about our work, like "How many people did you speak with?"
+- Tous les [renseignements protégés]({{site.baseurl}}/protection-des-renseignements-personnels), dont les suivants:
+  * les répertoires de participants de recherche (dont les noms, les adresses courriel et les numéros de téléphone);
+  * les notes de recherche brutes;
+  * les enregistrements des séances de recherche;
+  * les notes sur les personnes interrogées ou leurs évaluations.
+    - Stockez ces renseignements dans [GCDocs]({{site.baseurl}}/gc-docs-fr) ou entreposez-les dans notre [classeur à tiroirs protégé]({{site.baseurl}}/classeur-a-tiroirs-protege).
+- Nous ne suivons pas les projets internes sur Airtable. Mettez plutôt ces projets sur [Trello]({{site.baseurl}}/trello-fr).
 
-_- Last updated by Colin on March 25, 2019_
+### Pourquoi effectuons-nous cette démarche?
+Airtable remplit trois objectifs : il nous garde informés des travaux de chacun, il évite à Colin et à d’autres intervenants de demander ce que vous faites et quand vous le faites
+– nous l’utilisons pour vérifier notre progrès par rapport à [ nos résultats clés]({{site.baseurl}}/vision-et-objectifs).
+– et il nous permet de répondre à des questions statistiques de base sur notre travail comme « à combien de personnes avez-vous parlé? ».
+
+_- La dernière mise à jour a été effectuée par Colin le 25 mars 2019._

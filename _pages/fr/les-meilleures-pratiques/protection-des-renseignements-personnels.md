@@ -7,199 +7,187 @@ permalink: "/protection-des-renseignements-personnels/"
 category: "Les meilleures pratiques"
 trans_url: "/privacy/"
 ---
-This guide outlines resources processes that help you conduct ethical, policy-compliant research.
+Le présent guide décrit les processus de ressources qui vous permettent de réaliser une recherche éthique et conforme aux politiques.
 
-This guide is a work in progress – if you have any questions please contact a member of the policy or research team.
+Ce guide est en cours d’élaboration. Si vous avez des questions, veuillez communiquer avec un membre de l’équipe de la politique ou de l’équipe de recherche.
 
-### What the policy team provides
-- Establishes the framework and policy processes are for a given research activity
-- Clears the bureaucracy so researchers can do their job
+### Apport de l’équipe de la politique
+- Détermine le cadre et les processus politiques en place pour une activité de recherche donnée.
+- Élimine la bureaucratie pour que les chercheurs puissent s’acquitter de leurs fonctions.
 
-### What design researchers provide
-- Establishes research processes
-- Ensures that laws and policies conform to their own and established research ethics
+### Apport des chercheurs en conception
+- Établissent les processus de recherche.
+- S’assurent de la conformité des lois et des politiques à leur propre éthique établie en matière de recherche.
 
-### Basic privacy and consent guidelines
+### Lignes directrices de base en matière de protection des renseignements personnels et consentement
 
-#### New to the team?
-Before researching at CDS, read through the following questions and answers. For all research activities you undertake, you will need to be aware of the following:
- 
-#### What privacy and consent documents do I need to do [insert type] of research?
-- If doing intercept interviews, you will need a consent form and a privacy statement.
-- If also recording the participant, you will need an another consent form.
-- If you're using a recruiter, they need to send the forms on our behalf.
 
-#### Which email do I use for recruitment?
-Your @tbs-sct.gc.ca email. Personal information is protected and must remain on your TBS devices. (Tablets, @tbs-sct.gc.ca email, work-issued phones.) We know this isn’t ideal – we’re working on it.
+#### Êtes-vous nouveau dans l’équipe?
+Avant d’effectuer des recherches au SNC, veuillez lire les questions et les réponses qui suivent. Dans le cadre de toutes les activités de recherche que vous entamez, vous devrez connaître les réponses aux questions suivantes :
 
-#### On what devices can I record information?
-- You can use your TBS phones for audio recording. Use the voice notes feature in the encrypted container on your phone. (Chat with a member of the policy team for more information).
-- Be sure to send the recording to your TBS tablet, not MacBook, to listen and store. Only once it’s transcribed can it go on a MacBook. Again, not ideal, but we’re working on it.
+#### De quels documents liés à la protection des renseignements personnels et au consentement ai-je besoin pour effectuer une recherche de [insérer le type]?
+- Si vous réalisez des entrevues d’interception, vous aurez besoin d’un formulaire de consentement et d’un avis de confidentialité.
+- Si la démarche auprès du participant est enregistrée, vous aurez besoin d’un autre formulaire de consentement.
+- Si vous faites appel à un recruteur, celui-ci devra envoyer les formulaires en notre nom.
 
-#### How should I save participant information + org information?
-- Store participant information on TBS devices.
-- You can use your MacBooks and CDS email accounts for outreach to organizations. As soon as you’re exchanging personal information, you should use your TBS devices. It’s safer to stick to TBS devices and accounts.
+#### Quel courriel devrais-je utiliser pour le recrutement?
+Vous devez utiliser votre courriel @tbs-sct.gc.ca. Les renseignements personnels sont protégés et doivent rester sur vos appareils du Secrétariat du Conseil du Trésor du Canada (SCT) (les tablettes, le courriel @tbs-sct.gc.ca, les téléphones fournis dans le cadre du travail). Nous sommes conscients que cette situation n’est pas idéale et nous cherchons une solution.
 
-#### What is protected data?
-Generally speaking, any personal information is protected.
+#### Sur quels appareils est-ce que je peux enregistrer les renseignements?
+- Vous pouvez utiliser votre téléphone du SCT pour l’enregistrement sonore. Utilisez la fonctionnalité de notes vocales dans les conteneurs chiffrés de votre téléphone (clavardez avec un membre de l’équipe de la politique pour obtenir plus de renseignements).
+- Assurez-vous d’envoyer l’enregistrement sur votre tablette du SCT aux fins d’écoute et de stockage, et non sur un MacBook. Les renseignements peuvent être transférés sur un MacBook seulement après leur transcription. Encore une fois, ce n’est pas idéal, mais nous cherchons des solutions.
 
-#### Where should I store protected data? Macbook? Tablet?
-Store all protected data on your TBS tablet. Don’t send it (e.g. via an email) outside of the TBS system. 
+#### Comment devrais-je sauvegarder les renseignements sur le participant et sur l’organisme?
+- Stockez les renseignements du participant sur les appareils du SCT.
+- Vous pouvez utiliser vos MacBook et des comptes de courriel du SNC pour la sensibilisation auprès des organismes. Dès que vous échangez des renseignements personnels, vous devriez utiliser vos appareils du SCT. Il est plus sécuritaire de se servir des appareils et des comptes du SCT.
 
-#### How long do I need to hold on to consent forms?
-We should hold on to consent forms for as long as we’re using the data from those research sessions. As a rough rule, that would be until the end of CDS’s involvement with a product.
+#### Que sont les données protégées?
+Généralement parlant, tous les renseignements personnels sont protégés.
 
-If the consent form allows participants to withdraw . (e.g., if the research was confidential.) 
+#### Où devrais-je stocker les données protégées? Sur MacBook? Sur la tablette?
+Stockez toutes les données protégées sur votre tablette du SCT. Ne les transférez pas à l’extérieur du système du SCT (par exemple par courriel).
 
-#### Where should I keep consent forms? (physical vs digital)
-Store digital privacy and consent forms should  on your TBS tablet.
+#### Combien de temps dois-je conserver les formulaires de consentement?
+On devrait conserver les formulaires de consentement aussi longtemps que possible, car nous utilisons les données de ces séances de recherche. Comme règle approximative, il s’agirait de les conserver jusqu’à la fin de l’implication du SNC pour un produit.
 
-Physical privacy and consent forms should be stored in the secure filing cabinet.
+Si le formulaire de consentement permet aux participants de se retirer… (par exemple, si la recherche est confidentielle).
 
-#### How do I dispose of data? Consent forms? Notes?
-Shred paper records (like consent forms) using the shredders in the office’s printer rooms. (Fun fact: those shredders are RCMP-approved!)
+#### Où devrais-je garder les formulaires de consentement (physiques et numériques)?
+Stockez les formulaires numériques de protection des renseignements personnels et de consentement sur votre tablette du SCT.
 
-#### Who can have access to research data?
-This depends on the collection authority under which the data was collected.
-- If the privacy statement only uses TBS’s authority, then only TBS employees can view the raw data.  For example, if it says “authorized by the Financial Administration Act,” then it uses our authority. Until we depersonalize the data, only TBS employees can view it.
-- If the privacy statement uses both TBS’s and the partner’s collection authority, the partner and us can view data.
-For example, “authorized by the Financial Administration Act and the Department of Veterans Affairs Act”, 
+Les formulaires physiques de protection des renseignements personnels et de consentement devraient être entreposés dans le classeur à tiroirs protégé.
 
-#### Who in a partner department can view data?
-If the statement includes the partner’s collection authority, any  partner department employee can view the data. That said, we must limit access to people who have a valid reason to handle that data.
+#### Comment est-ce que je supprime les données? Les formulaires de consentement? Les notes?
+Déchiquetez les documents papier (comme les formulaires de consentement) à l’aide des déchiqueteuses situées dans les salles d’impression du bureau (anecdote : ces déchiqueteuses sont approuvées par la Gendarmerie royale du Canada).
 
-#### Can other staff at CDS view data? Other members of the product team? 
+#### Qui a accès aux données de recherche?
+L’accès dépend de l’autorisation de collecte dans le cadre de laquelle les données ont été recueillies. Si l’avis de confidentialité indique seulement l’utilisation de l’autorisation du SCT, alors seuls les employés de ce ministère peuvent consulter les données brutes. Par exemple, s’il indique « autorisé par la Loi sur la gestion des finances publiques », il fait alors référence à notre autorisation. Tant et aussi longtemps que les données ne sont pas rendues anonymes, seuls les employés du SCT peuvent les consulter. Si l’avis de confidentialité indique l’utilisation de l’autorisation de collecte du SCT et d’un partenaire, alors le partenaire a autant droit d’accès aux données que nous. Il s’agit, par exemple, du cas si l’avis dit « autorisé par la Loi sur la gestion des finances publiques et la Loi sur le ministère des Anciens Combattants ».
 
-The same guidelines apply here as they do for who in a partner department can view the data. With TBS’s collection authority, any TBS employee could view it. But we must limit that sharing to those with a valid reason to handle the data.
+#### Qui peut consulter les données au sein d’un ministère partenaire?
+Si l’avis comprend l’autorisation de collecte d’un partenaire, alors tout employé du ministère partenaire peut consulter les données. Cela dit, nous devons retreindre l’accès à des personnes qui ont une raison valable pour traiter ces données.
 
-These constraints apply to raw data. We can share summaries, where no statements can be attributed to an individual, openly.
+#### D’autres employés du SNC peuvent-ils consulter les données? D’autres membres de l’équipe de produit?
+Dans ce cas, les lignes directrices d’accès aux données sont les mêmes que celles pour les employés d’un ministère partenaire. Grâce à l’autorisation de collecte du SCT, tout employé du ministère peut les consulter. Toutefois, nous devons restreindre l’accès à ceux qui ont une raison valable pour traiter les données.
+Ces contraintes s’appliquent aux données brutes. Nous pouvons ouvertement partager des résumés pour lesquels aucun avis ne peut être attribué à une personne.
 
-#### Can a partner send personal information to a CDS researcher? (e.g. a spreadsheet with immigration application information)
-A partner cannot send us an unsolicited spreadsheet with personal information. We would need to make sure we have the legal authority to collect the personal information. In order to share data between a partner and CDS:
-- the partner must collect the data under their authority and TBS’s 
-- the data must be in one of the standard personal information banks, like PSU 938 “Outreach”.
+#### Un partenaire peut-il envoyer des renseignements personnels à un chercheur du SNC (par exemple, une feuille de calcul avec des renseignements sur des demandes d’immigration)?
+Un partenaire ne peut nous envoyer une feuille de calcul non sollicitée qui comprend des renseignements personnels. Nous devrions nous assurer d’avoir l’autorisation légale de recueillir les renseignements personnels. En vue d’un échange de données entre un partenaire et le SNC, le partenaire doit recueillir les données dans le cadre de son autorisation et de celle du SCT et les données doivent être des fichiers de renseignements personnels ordinaires, comme POU 938, « activités de sensibilisation ».
 
-#### What can I digitize from paper notes? Where can I store that digitized information?
-Digitize paper notes by typing them up on your TBS tablet or scanning them with TBS equipment.  Don't use unprotected scanners, like those connected to our MacBooks.
+#### Quels renseignements puis-je numériser à partir des documents en papier? Où puis-je stocker les renseignements numérisés?
+Numérisez les notes en papier en les saisissant sur votre tablette du SCT ou en les numérisant à l’aide de l’équipement du SCT. N’utilisez pas de numériseurs non protégés, comme ceux connectés à nos MacBook.
 
-Store digitized notes on your TBS devices. Share them with others via TBS email or GCDocs.
+Stockez les notes numérisées sur vos appareils du SCT. Partagez-les avec d’autres intervenants par l’entremise du courriel du SCT ou par GCdocs.
 
-#### If I want to take digital notes, where I can I store that?
-Use your TBS devices (TBS-issued phone, in the secure section) or your tablet.
+#### Si je souhaite prendre des notes numériques, où puis-je les stocker?
 
-### Resources
-#### Readings
-These readings cover much of the language consent and privacy forms use. Read these before you start conducting research.
+Servez-vous de vos appareils (le téléphone distribué par le SCT, dans la zone sécurisée) ou de votre tablette du SCT.
 
-#### The Privacy Act: Governs how the federal government handles personal information. 
-* Section 3: Definitions
-* Section 4: Authority to Collect
-* Section 8 (2): Appropriate Disclosure of Information
+### Ressources
+#### Lectures
+Ces lectures couvrent une grande partie de la terminologie utilisée dans les formulaires de consentement et de protection des renseignements personnels. Faites ces lecteurs avant d’entamer de recherches.
 
-#### Tri-council policy statement on Ethical Conduct for research w/ humans: Core principles which outline best practices for conducting research with participants. Chapter 3 provides guidelines for collecting informed consent. 
-* Chapter 3: Consent
+#### La Loi sur la protection des renseignements personnels : Elle gouverne la manière par laquelle le gouvernement fédéral gère les renseignements personnels.
+- Article 3 : définitions
+- Article 4 : autorisation de collecte
+- Paragraphe 8(2) : divulgation appropriée des renseignements
 
-##### Directive on Privacy Practices: Provides direction to government institutions on how to implement effective privacy practices.
-(see CDS summary)
-* Section 6: Requirements
-* Section 6.2.9: Privacy Notice
+#### Énoncé de politique des trois Conseils sur l’éthique de la recherche avec des êtres humains : principes fondamentaux qui décrivent les pratiques exemplaires pour la recherche avec des participants Le chapitre 3 fournir les lignes directrices pour la collecte d’un consentement éclairé.
+* Chapitre 3 : consentement
 
-#### In-house tools
-The policy team to make privacy and consent gathering more efficient and safe. Researchers use these tools in partnership with the policy team. 
+##### Directive sur les pratiques relatives à la protection de la vie privée : Elle fournit une orientation aux institutions gouvernementales quant à la façon de mettre en œuvre des pratiques efficaces de protection de la vie privée.
+(voir le résumé du SNC)
+* Article 6 : exigences
+* Article 6.2.9 : avis de confidentialité
 
-#### Research activity privacy guide
-When to use: 
-- You're starting research
-- You've identified who and where you want to conduct research
+#### Outils internes
+L’équipe de la politique rendra la collecte effectuée dans le cadre de la protection des renseignements personnels et du consentement plus efficace et sécuritaire. Les chercheurs utilisent ces outils en collaboration avec l’équipe de la politique.
 
-#### Privacy and Consent Framework for Notices
-When to use: When choosing which privacy and consent notices to use. 
+#### Guide sur la protection des renseignements personnels dans le cadre des activités de recherche
+Quand utiliser : vous commencez la recherche et vous avez choisi les participants et le lieu.
 
-#### Privacy and Consent form Generator
-When to use: In partnership with policy to generate forms for research.
- 
-### Keywords and acronyms
-A more complete set of definitions can be found in the Privacy and Consent Framework.
-PII
+#### Cadre de protection des renseignements personnels et de consentement pour les avis
+Quand utiliser : lorsque vous choisissez les avis à utiliser pour la protection des renseignements personnels et le consentement
 
-#### Personally Identifiable Information
-Any single data element that identifies a specific individual. Any information that can be used to distinguish one person from another and can be used for de-anonymizing anonymous data can be considered PII. 
-ATIP
+#### Générateur de formulaires de protection des renseignements personnels et de consentement
+Quand utiliser : en collaboration avec l’équipe de la politique pour générer des formulaires de recherche
 
-#### Access to Information and Privacy
-The Access to Information Act gives every Canadian citizen, permanent resident, individual or corporation in Canada the right to request access to records that are under the control of federal government institutions, regardless of their format. The Treasury Board Secretariat ATIP office reviews our privacy and consent notices. 
-PIB
+### Mots clés et acronymes
+Vous trouverez un ensemble exhaustif de définitions dans le Cadre de protection des renseignements personnels et de consentement.
 
-#### Personal Information Bank
-Descriptions of personal information under the control of a government institution that is organized and retrievable by an individual's name or by a number, symbol or other element that identifies that individual.
+#### Renseignements permettant d’identifier une personne
+Il s’agit de tout élément de données qui permet d’identifier une personne précise. Tous les renseignements qui peuvent servir à distinguer une personne d’une autre et qui peuvent être utilisés pour lever le voile sur des données anonymes peuvent être considérés comme étant des « renseignements permettant d’identifier une personne ».
 
-#### Confidential
-A level of confidentiality. Confidential data are usually coded: the subject is assigned a unique identifier that will be used to identify the data.(E.g., “respondent 1”)
+#### Accès à l’information et protection des renseignements personnels
+La Loi sur l’accès à l’information donne à chaque citoyen canadien, résident permanent, personne ou entreprise au Canada le droit de demander l’accès à des dossiers qui relèvent du contrôle d’institutions gouvernementales fédérales, peu importe leur format. Le bureau de l’AIPRP du Secrétariat du Conseil du Trésor du Canada examine nos avis de protection des renseignements personnels et de consentement.
 
-#### Anonymous
-A level of confidentiality. Anonymous data are recorded so that the information can never be linked to the subject who supplied it.
+#### Fichier de renseignements personnels
+Il s’agit de descriptions de renseignements personnels organisés relevant du contrôle d’une institution gouvernementale qui peuvent être récupérés à l’aide du nom d’une personne ou d’un numéro, d’un symbole ou d’un autre élément qui permet de valider l’identité de cette personne.
 
-#### Anonymized or Depersonalized
-A level of confidentiality. Anonymized or depersonalized data is initially collected with the identity of the participant known. Then undergoes a rigorous process to remove identifying information such that no single element or combination of data could be used to identify the individual. 
+#### Confidentiel
+Il s’agit d’un niveau de confidentialité. Les données confidentielles sont normalement codées : on assigne au sujet un identificateur unique qui est utilisé pour identifier les données (par exemple, « répondant 1 »).
 
-#### Protected Information
-Applies to information or assets that, if compromised, could reasonably be expected to cause injury to a non-national interest—that is, an individual interest such as a person or an organization.
+#### Anonymes
+Il s’agit d’un niveau de confidentialité. Les données anonymes sont enregistrées de telle sorte que les renseignements ne peuvent jamais être associés au sujet qui les a fournis.
 
-### What to to know, by research phase
-So, you’re caught up and ready for research?
-Discuss these questions as you conduct research. Work with your policy analyst to answer these questions as you move from start to finish on a study. 
+#### Anonymisées
+Il s’agit d’un niveau de confidentialité. Les données anonymisées sont des données recueillies où l’identité du participant est connue à l’origine. Elles sont ensuite assujetties à un processus rigoureux pour en retirer les renseignements liés à l’identité, afin qu’aucun élément unique ou combinaison de données ne puisse servir à trouver l’identité de la personne.
 
-#### Before you start
-- Who will be conducting the research?
-- Has the department done user research before?
-- What kind of authority to collect information does the partner department have?
-- How do will we share research findings?
-- Will the department help us find research participants?
-- ill we be collecting any personal information during the recruitment process?
+#### Renseignements protégés
+Cette définition s’applique aux renseignements ou aux biens qui, selon toute vraisemblance, pourraient causer des préjudices à des intérêts non nationaux en cas de compromis, c’est-à-dire à un intérêt individuel comme une personne ou un organisme.
 
-#### Service overview
-- Critical questions to answer: 
-    - What are the department specific ATIP practices?
-    - What is the business case for research? 
-- Good-to-have answers: 
-    - How risk averse is the partner?
-    - Who should we be meeting with to socialize the research plan?
-    - Does the department have any specific limits on information collection?
+### Ce qu’il faut savoir, par étape de recherche
+Alors, vous êtes à jour et prêt pour la recherche? Discutez de ces questions à mesure que vous avancez dans votre recherche. Collaborez avec votre analyste des politiques pour répondre à ces questions, du début à la fin de l’étude.
 
-#### Research plan
-- Critical questions to answer: 
-    - What methods do we plan to use and what personal information will we need to collect?
-    - What are the anticipated sample sizes?
-- Good-to-have answers: 
-    - What technologies will we use?
-    - How will we record and store findings?
-    - How sensitive is the data we will collected? How will we obscure the personal information?
-    - How will collect consent?
+#### Avant de commencer
+- Qui réalisera la recherche?
+- Le ministère a-t-il déjà fait de la recherche sur les utilisateurs?
+- Quel type d’autorisation le ministère partenaire détient-il pour recueillir des renseignements?
+- Comment partageons-nous des observations de recherche?
+- Le ministère nous permettra-t-il de trouver des partenaires de recherche?
+- Recueillerons-nous des renseignements personnels au cours du processus de recrutement?
 
-#### Refining your target audience
-- Critical questions to answer: 
-    - Will we need to make special considerations to prevent coercion and ensure they are able to give informed consent?
-    - Where will we be meeting users during testing and interviews (the home, public, etc.)?
-Good-to-have answers: 
-    - What segments of the population would we like to speak with?
-    - What is the timeline for consent turnaround?
+#### Aperçu du service
+- Réponses à des questions essentielles :
+  - Quelles sont les pratiques ministérielles propres à l’AIPRP?
+  - Quelle est l’analyse de rentabilité pour la recherche?
+- Bonnes réponses à avoir :
+  - À quel point le partenaire est-il réfractaire au risque?
+  - Qui devrions-nous rencontrer pour partager le plan de recherche?
+  - Le ministère a-t-il des contraintes spécifiques quant à la collecte de renseignements?
 
-#### Recruiting participants
-- Critical questions to answer: 
-    - What recruitment methodology will I use? Intercept? Snowball?
-    - What PII is being collected? What PII do we *need*?
-- Good-to-have answers: 
-    - Will we have access to participants through partner/customer channels?
-    - What information can I share with potential participants?
-    - Can I reach out to past participants?
+#### Plan de recherche
+- Réponses à des questions essentielles :
+  - Quelles méthodes envisageons-nous utiliser et quels renseignements personnels devrons-nous recueillir?
+  - Quelles sont les tailles d’échantillon prévues?
+- Bonnes réponses à avoir :
+  - Quelles technologies utiliserons-nous?
+  - Comment ferons-nous pour enregistrer et entreposer les observations?
+  - Combien les données que nous recueillerons sont-elles délicates? Comment masquerons-nous les renseignements personnels?
+  - Comment obtiendrons-nous le consentement?
 
-#### Running research
-- Critical questions to answer:
-    - What are the benefits and risks of this research for participants?
-- Good-to-have answers: 
-    - How can I clearly state to a participant how we will use their data? How can I guarantee that the data will be limited to that usage?
-    - Is there anything I can’t speak about when working with a participant?
-    - How can I maintain participants’ privacy throughout the research?
+#### Précision de votre public cible
+- Réponses à des questions essentielles :
+  - Devrons-nous prendre des mesures particulières pour empêcher la coercition et nous assurer d’obtenir un consentement éclairé?
+  - Où rencontrerons-nous les utilisateurs au cours des tests et des entrevues (au domicile et dans un lieu public, entre autres)?
+- Bonnes réponses à avoir :
+  - À quels segments de la population aimeriez-vous parler?
+  - Quel est le délai d’exécution pour l’obtention du consentement?
 
-_- Last updated by Colin on March 25, 2019_
+#### Recrutement de participants
+- Réponses à des questions essentielles :
+  - Quelle méthodologie de recrutement utiliserai-je? L’interception? L’effet boule de neige?
+  - Quels renseignements permettant d’identifier une personne sont-ils recueillis? De quels renseignements permettant d’identifier une personne avons-nous besoin?
+- Bonnes réponses à avoir :
+  - Aurons-nous accès à des participants par l’entremise des canaux des partenaires et des clients?
+  - Quels renseignements puis-je partager avec des participants éventuels?
+  - Puis-je communiquer avec d’anciens participants ?
 
+#### Recherche en cours
+- Réponses à des questions essentielles :
+  - Quels sont les avantages et les risques de cette recherche pour les participants?
+- Réponses bonnes à avoir :
+  - Comment puis-je clairement indiquer à un participant la manière que nous utiliserons ses données? Comment puis-je garantir que l’utilisation des données se limitera à cette fin?
+  - Existe-t-il des sujets que je ne peux pas aborder pendant ma collaboration avec un partenaire?
+  - Comment puis-je assurer la protection des renseignements personnels des participants tout au long de la recherche?
+
+_– La dernière mise à jour a été effectuée par Colin le 25 mars 2019._

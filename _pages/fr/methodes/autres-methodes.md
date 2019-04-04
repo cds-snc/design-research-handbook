@@ -1,38 +1,36 @@
 ---
 layout: page
 title:  "Autres méthodes"
-lang: en
-category: "Methods"
+lang: fr
+category: "Méthodes"
 permalink: "/other-methods/"
 trans_url: "/fr-needed/"
 ---
 
-_Methods we haven't used as much, but should use more!_
+_Méthodes dont on ne s’est pas beaucoup servi, mais qu’on devrait utiliser plus._
 
+#### Tests du contenu
 
+**Quand utiliser?** Vous essayez de déterminer la portée de vos mots sur les personnes.
 
-#### Content testing
+**Par où commencer?** La majorité des tests du contenu sont dérivés des tests de facilité d’emploi. Lisez nos [astuces sur les tests de facilité d’emploi d’abord]({{site.baseurl}}/usability-testing). Ensuite, lisez l’ ["introduction to content testing techniques"](https://18f.gsa.gov/2016/04/19/looking-at-the-different-ways-to-test-content/).
 
-**When to use?** You're trying to understand how well your words work for people
+#### Tri de cartes
 
-**How to get started?** Most content testing is a derivation of usability testing. Read our [usability testing tips first]({{site.baseurl}}/usability-testing). Then read [18F's introduction to content testing techniques](https://18f.gsa.gov/2016/04/19/looking-at-the-different-ways-to-test-content/).
+**Quand utiliser?** Lorsque vous essayez de créer ou de mettre à l’essai des plans de l’organisme.
 
-#### Card sorting
+**Comment commencer?** Lisez l’ [Usability.gov introduction to card sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html).
 
-**When to use?** When you're trying to create or test organization schemes
+#### Tests multivariés
 
-**How to get started?** Read [Usability.gov's introduce to card sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html).
+**Quand utiliser?** Utilisé pour voir quelle incidence différentes versions d’une interface peuvent avoir sur un indicateur d’intérêt
 
-#### Multivariate testing
-
-**When to use?** Use to test how multiple versions of an interface affect a metric of interest
-
-**How to get started?** Talk to the platforms team and read this [introduction to multivariate testing](https://github.com/dwyl/learn-ab-and-multivariate-testing).
+**Par où commencer?** Parlez à l’équipe des plateformes et lisez cette ["introduction to multivariate testing"](https://github.com/dwyl/learn-ab-and-multivariate-testing).
 
 #### Observation
 
-**When to use?** When you need to better understand the context in which people work
+**Quand utiliser?** Lorsque vous avez besoin de mieux comprendre le contexte de travail.
 
-**How to get started?** Read [UXMatters introduction to participant observation](httpshttpshttps://www.uxmatters.com/mt/archives/2014/01/participatory-observation.php).
+**How to get started?** Lisez l’ ["UXMatters introduction to participant observation"](httpshttpshttps://www.uxmatters.com/mt/archives/2014/01/participatory-observation.php).
 
-_- Last updated by Colin on March 14, 2019_
+_- La dernière mise à jour a été effectuée par Colin le 14 mars 2019._

@@ -7,18 +7,16 @@ category: "Les meilleures pratiques"
 trans_url: "/por/"
 ---
 
-"Public opinion research" (POR) is a class of primary research regulated by the Government of Canada. If government agencies conduct POR, they need to follow the POR processes described in the [Directive on the Management of Communications](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682).
+La « recherche sur l’opinion publique » (ROP) est une catégorie de recherche originale réglementée par le gouvernement du Canada. Si des organismes gouvernementaux effectuent de la ROP, ils doivent respecter les processus de ROP décrits dans la [Directive sur la gestion des communications](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682).
 
-As the ["Defining public opinion research"](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#h-1) guidance states:
+Le passage qui suit est extrait du guide [ « Définir la recherche sur l’opinion publique » : ](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#h-1) guidance states:
 
->> User research that involves only using observation techniques and collecting fact-based information is normally not considered public opinion research. 
+>> Une recherche sur l’utilisateur qui comprend uniquement l’utilisation de techniques d’observation ou une collecte de données fondées sur des faits n’est habituellement pas considérée comme une recherche sur l’opinion publique.
+>> Par recherche comportementale, on désigne habituellement l’étude de la façon dont les gens réagissent ou se comportent dans une situation donnée. La recherche factuelle répond habituellement aux questions « qui, quoi, quand et où ».
 
->> Behavioural research is generally defined as how people react or behave in a given situation. Factual research often answers who, what, when or where.
+La grande partie de notre recherche est axée sur les comportements ou les actions passées des personnes. Cette recherche est factuelle et comportementale, ce qui fait qu’elle n’entre pas dans la définition de ROP. Il est possible d’élaborer une recherche en conception qui est une ROP. Si vous avez des questions à propos de politiques sur les opinions des personnes ou le gouvernement, vous effectuez peut-être une ROP.
 
-Most of our research focuses on people's behaviours or past actions. That research is factual and behavioural, so it doesn't fall within the definition of POR.
-It's possible to construct design research that is POR. If you ask questions about people's opinions policy or government, you may be doing POR. 
-
-If you don't know whether your research is POR or not, speak to our policy team.
+Si vous n’êtes pas certain si votre recherche est une ROP, parlez à votre équipe de la politique.
 
 
-_- Last updated by Colin on March 25, 2019_
+_– La dernière mise à jour a été effectuée par Colin le 25 mars 2019._

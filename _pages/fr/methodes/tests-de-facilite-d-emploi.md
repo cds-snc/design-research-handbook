@@ -6,24 +6,26 @@ category: "Méthodes"
 permalink: "/tests-de-facilite-d-emploi/"
 trans_url: "/usability-testing/"
 ---
-### What is usability testing?
-Usability testing is asking people to complete tasks and observing what happens.
+### Que sont les tests de facilité d’emploi?
+ Les tests de facilité d’emploi demandent aux personnes de réaliser des tâches et d’observer les conséquences.
 
-### Key elements of usability testing
-* **Make a plan.**  Write down the purpose, participants and tasks before your start. [Sample one page usability testing plan](https://www.userfocus.co.uk/pdf/usabilitydashboard.pdf)
-* **Recruit enough people.** Don't test with one or two people and call it done. Use at least five different people of different backgrounds. [More thoughts on how many people to include.](https://www.uxmatters.com/mt/archives/2016/01/how-to-determine-the-right-number-of-participants-for-usability-studies.php)
-* **Choose tasks that people would actually think to complete.** For example, on the CDS website, people think "I want to use the job application function." Instead, they'd think of themselves as "learning about what jobs CDS has available." [Task writing tips](https://www.nngroup.com/articles/better-usability-tasks/)
-* **While facilitating tests, be quiet.** Ask participants to complete a task and then be silent. Don't coach them or react to what they do. Focus on observing what's easy and hard. [Tips on what to say when people ask you questions.](http://sensible.com/downloads/things-a-therapist-would-say.pdf)
-* **Look for patterns across participants.** Don't start making changes based on one participant. Fix what several people struggle with. Two possible tools for doing so: [the rainbow spreadsheet](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) and the [rolling issues list](http://usabilityworks.com/consensus-on-observations-in-real-time-keeping-a-rolling-list-of-issues/)
+### Éléments clés des tests de facilité d’emploi
 
-### Tips for conducting usability testing at CDS
-* Follow our [guidelines for respecting participants' privacy]({{ site.baseurl }}/privacy). Work with our policy team to create an ATIP-approved consent form before you get started. Speak to the policy analyst on your product team or ask Colin for more help.
-* Interviewing as part of user research is generally exempt from [Government of Canada Public Opinion Research regulation](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#toc3). But follow [our POR tips]({{ site.baseurl }}/por) to steer clear of potential problems.
-* You can use our [equipment]({{ site.baseurl}}/research-kit) and/or [listening room]({{ site.baseurl }}/research-room) for usability testing. 
+* **Élaborez un plan.**  Notez l’objectif, les participants et les tâches avant de commencer.
+* **Recrutez suffisamment de personnes.** Il ne suffit pas de faire des tests avec seulement une ou deux personnes. Faites appel à au moins cinq personnes qui ont des vécus différents.
+* **Choisissez des tâches à compléter auxquelles les personnes penseraient réellement.** Par exemple, sur le site Web du SNC, les gens ont la réflexion suivante : « Je veux utiliser une fonction de demande d’emploi. » Ils penseraient plutôt à « se renseigner sur les emplois offerts au SNC ».
+* **Pendant que vous facilitez les tests, soyez silencieux.** Demandez aux participants d’accomplir les tâches, puis ne dites plus rien. Ne les encadrez pas et ne réagissez pas à leurs démarches. Concentrez vous à cerner les parties faciles des parties difficiles.
+* **Cherchez des tendances au sein du groupe de participants.** Ne commencez pas à faire des changements en fonction d’un participant. Réglez des difficultés auxquelles sont confrontées plusieurs personnes.
 
-### Resources
+### Astuces pour effectuer des tests de facilité d’emploi au SNC
 
-#### From others
+* Respectez nos [lignes directrices pour assurer la protection des renseignements personnels des participants]({{ site.baseurl }}/protection-des-renseignements-personnels). Collaborez avec notre équipe de la politique pour créer un formulaire de consentement qui est conforme à l’accès à l’information et à la protection des renseignements personnels (AIPRP) avant de commencer. Pour obtenir de l’aide, consultez l’analyste des politiques de votre équipe de produit ou Colin.
+* Les entrevues réalisées dans le cadre de la recherche sur les utilisateurs sont généralement exemptées du [Règlement sur les marchés de recherche sur l’opinion publique du gouvernement du Canada](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#toc3). Toutefois, soyez à l’affût [de nos astuces sur la ROP]({{ site.baseurl }}/rop) pour éviter d’éventuelles difficultés.
+* Vous pouvez vous servir de notre [équipement]({{ site.baseurl}}/equipment-de-recherche) ou de notre [salle d’écoute]({{ site.baseurl }}/salle-de-recherche) pour les entrevues.
+
+### Ressources
+
+#### Provenant de sources externes
 * ["How to conduct usability testing" from 18F](https://18f.gsa.gov/2018/11/20/introduction-to-remote-moderated-usability-testing-part-2-how/)
 * [One page usability testing plan from User Focus](https://www.userfocus.co.uk/pdf/usabilitydashboard.pdf)
 * ["Thoughts on determining the right number of usability testing participants" from UX Matters](https://www.uxmatters.com/mt/archives/2016/01/how-to-determine-the-right-number-of-participants-for-usability-studies.php)
@@ -35,9 +37,9 @@ Usability testing is asking people to complete tasks and observing what happens.
 * ["Rainbow spreadsheet for analyzing results" from Tomer Sharon in Smashing Magazine](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/)
 * ["Rolling issues list for analyzing testing" from Dana Chisnell](http://usabilityworks.com/consensus-on-observations-in-real-time-keeping-a-rolling-list-of-issues/)
 
-#### From us
+#### Provenant de l’interne
 * [Example: Usability testing plans from the VAC project](https://docs.google.com/document/d/1GW9GhvWqLDscLOb_CP8y0pGmW_iZ8MaSnELb_5w4hd0/edit)
 * [Example: Usability testing plans for the an IRCC sprint](https://docs.google.com/presentation/d/1V_fhCoBXGRApBt3AI8qg4PFaRGXyDUkQmQ2YNjKScXI/edit#slide=id.g36be40e022_0_10)
 * [Community presentation on lightweight usability testing](https://docs.google.com/presentation/d/1L6r6fBTVVUiuaBWNwjv0LWAfiYHMYyGuR2lepad24Mo/edit?usp=drive_web&ouid=115428102159383580616)
 
-_- Last updated by Colin on March 14, 2019_
+_– La dernière mise à jour a été effectuée par Colin le 14 mars 2019._

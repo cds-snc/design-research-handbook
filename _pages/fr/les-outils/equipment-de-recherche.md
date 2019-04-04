@@ -7,20 +7,19 @@ permalink: "/equipment-de-recherche/"
 trans_url: "/equipment-for-research/"
 ---
 
-### In sum
-* Use the following equipment to help you with your design research.
-* It's stored in the research listening room.
-* Some equipment may not be set up or may be out of batteries. Allow time to check the equipment before you use it.
+### En résumé
+* Utilisez l’équipement suivant pour vous aider dans votre recherche en conception.
+* Il est entreposé dans la salle d’écoute pour la recherche.
+* Une partie de l’équipement peut ne pas être prêt ou être à court de piles. Prévoyez du temps pour vérifier l’équipement avant de l’utiliser.
 
-### Equipment
-* 2 PC laptops (off network
-* 3 wireless mouse
-* 3 wired mice
-* 2 mouse pads
-* Laptop bag
-* Digital voice recorder
-* Microphone (USB)
-* Variety of old iPhones and Android phones
-* Mr. Tappy camera and recording sled for mobile devices
+### Équipement
+* Deux ordinateurs portatifs PC (hors réseau)
+* Trois souris sans fil
+* Deux tapis de souris
+* Un sac pour ordinateur portatif
+* Un enregistreur de parole numérique
+* Un microphone (USB)
+* Une variété de vieux téléphones iPhone et Android
+* Une caméra et un système d’enregistrement pour appareils mobiles de Mr. Tappy.
 
-_- Last updated by Colin on March 25, 2019_
+_- La dernière mise à jour a été effectuée par Colin le 25 mars 2019._

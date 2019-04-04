@@ -1,34 +1,32 @@
 ---
 layout: page
 title:  "Google Drive"
-lang: en
+lang: fr
 category: "Les outils"
 permalink: "/google-drive-fr/"
 trans_url: "/google-drive/"
 ---
 
-*We use Google Drive to store research team documents.*
+*Nous utilisons Google Drive pour stocker les documents de l’équipe de recherche.*
 
-### How to get to Google Drive
-- Log into Google Drive via your CDS Google account.
-- Click on "Team Drives" and then "CDS Research - Recherche." Or this [link brings you directly to the research drive](https://drive.google.com/drive/folders/0ANCzQfZxlMUkUk9PVA).
+### Comment accéder à Google Drive
+- Connectez-vous à Google Drive grâce à votre compte Google du SNC.
 
-### What we put on Google Drive
-Google Drive is where we store non-protected documents like:
-- Community meeting presentations
-- Document templates
-- Notes from important meetings
+- Cliquez sur « Team Drives » (Lecteurs de l’équipe), puis sur « CDS Research - Recherche » (Recherche SNC) ou utilisez ce [lien qui vous amène directement au lecteur de recherche](https://drive.google.com/drive/folders/0ANCzQfZxlMUkUk9PVA).
 
-### What we don't put on our Google Drive
-- Anything that's [protected information]({{site.baseurl}}/privacy), including:
-    - Research participant rosters (including names, email addresses, phone numbers)
-    - Raw research notes
-    - Research session recordings
-    - Job interviewee notes or evaluations
-    - Store this information in [GCDocs]({{site.baseurl}}/gc-docs) or our [secure filing cabinet]({{site.baseurl}}/secure-filing). 
-- Don't put product-specific research plans in the research Google Drive folder. Instead, put it in the Google Drive folder related to your product.
+### Ce que nous stockons sur Google Drive
+Nous stockons sur Google Drive des documents non protégés, comme les suivants : les présentations des réunions de la collectivité, les modèles de documents et les notes de réunions importantes.
 
-### Why do we do this?
-Google Drive makes it easy for us to see and collaborate on each other's documents. If we store documents on our computers, it can be hard for others to find them in the future.
+### Ce que nous ne stockons pas sur Google Drive
+- Tous les [renseignements protégés]({{site.baseurl}}/protection-des-renseignements-personnels), dont les suivants:
+  * les répertoires de participants de recherche (dont les noms, les adresses courriel et les numéros de téléphone);
+  * les notes de recherche brutes;
+  * les enregistrements des séances de recherche;
+  * les notes sur les personnes interrogées ou leurs évaluations.
+    - Stockez ces renseignements dans [GCDocs]({{site.baseurl}}/gc-docs-fr) ou entreposez-les dans notre [classeur à tiroirs protégé]({{site.baseurl}}/classeur-a-tiroirs-protege).
+- Ne déposez pas de plans de recherches spécifiques à un produit dans le dossier de recherche sur Google Drive. Pensez plutôt à le stocker dans le dossier de Google Drive lié à votre produit.
 
-_- Last updated by Colin on March 25, 2019_
+### Pourquoi effectuons-nous cette démarche?
+Google Drive nous permet de consulter le travail de chacun et d’y collaborer. Si nous stockons des documents sur notre ordinateur, il peut être difficile pour les autres de les trouver à l’avenir.
+
+_- La dernière mise à jour a été effectuée par Colin le 25 mars 2019_

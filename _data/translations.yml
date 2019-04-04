@@ -13,7 +13,8 @@ en:
   code-and-repo-slug: "/technical/"
   language: "Français"
   homepage-slug: "/home/"
-  site-name: "Design research handbook"
+  site-name: "CDS design research handbook"
+  toc: "Table of contents"
 fr:
   homepage-tag-line: "French tagline"
   cds-snc: "Service numérique canadien"
@@ -29,4 +30,5 @@ fr:
   code-and-repo-slug: "/codes-et-referentiels/"
   language: "English"
   homepage-slug: "/accueil/"
-  site-name: "Design research handbook in French"
+  site-name: "Guide de recherche en conception du SNC"
+  toc: "Table des matières"

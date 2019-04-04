@@ -7,28 +7,27 @@ permalink: "/salle-de-recherche/"
 trans_url: "/research-room/"
 ---
 
-*You can use the research room at our Ottawa office to host interviews or usability tests.*
+*Vous pouvez vous servir de la salle de recherche à notre bureau d’Ottawa pour accueillir les entrevues ou les tests de facilité d’emploi.*
 
-### Where is the room?
-It's room 14134, the small room near the outreach team.
+### Où est la salle?
+Il s’agit de la salle 14134, la petite salle près de l’équipe de sensibilisation.
 
 ### What's in the room?
-- For interviewing:
- - Two comfy chairs
- - A small laptop or coffee table
-- For usability testing:
- - A work table
- - Two fixed chairs
+- Pour les entrevues :
+  - deux chaises confortables;
+  - un petit ordinateur portatif ou une table basse.
+- Pour les tests de facilité d’emploi :
+  - une table de travail;
+  - deux chaises fixes.
 
-All of our [research equipment]({{site.baseurl}}/research-kit) is also stored in the room.
+Tout notre [équipement de recherche]({{site.baseurl}}/equipment-de-recherche) est également entreposé dans la salle.
 
-### How do I get members of the public to the room?
-- You must register them in advance with security. Visit the visitor registration form on your TBS computer a least a day before your visit.
-- You must meet your guest at reception downstairs. They'll have trouble navigating the building without your help.
+### Comment est-ce que j’invite des membres du public dans la salle?
+- Vous devez les inscrire d’avance auprès de la sécurité. Consultez le formulaire d’inscription des visiteurs sur votre ordinateur du SCT au moins une journée avant la visite.
+- Vous devez rencontrer l’invité à la réception de l’étage en dessous. Il aura de la difficulté à se retrouver dans l’édifice sans votre aide.
 
-### How do I reserve the room?
-You can reserve the room in Google Calendar, like other conference rooms.
+### Comment est-ce que je réserve la salle?
+Vous pouvez réserver la salle dans Google Calendar, tout comme d’autres salles de conférence.
 
 
-
-_- Last updated by Colin on March 25, 2019_
+_- La dernière mise à jour a été effectuée par Colin le 25 mars 2019._
