@@ -19,6 +19,7 @@ For interviewing:
 For usability testing:
  - A work table
  - Two fixed chairs
+ - Devices for testing
 
 All of our [research equipment]({{site.baseurl}}/research-kit) is also stored in the room.
 
