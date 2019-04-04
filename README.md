@@ -1,6 +1,6 @@
 # *CDS design research team handbook / Guide de recherche en conception du SNC*
 
-[cds-snc.github.io/design-research-handbook](cds-snc.github.io/design-research-handbook/)
+[cds-snc.github.io/design-research-handbook](https://cds-snc.github.io/design-research-handbook/)
 
 ## Purpose and audience / Objectif et auditoire
 This handbook is for Canadian Digital Service researchers and other staff. Some of the links inside it may not be accessible to people outside CDS.
