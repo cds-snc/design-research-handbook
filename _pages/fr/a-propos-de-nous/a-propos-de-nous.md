@@ -12,6 +12,7 @@ La recherche conceptuelle permet de créer des services qui répondent aux besoi
 ### Qui nous sommes
 * Colin MacArthur (chef de recherche en conception)
 * Mithula Naik (chercheuse principale en conception)
+* Antoine Garcia-Suarez (chercheur en conception)
 * Hillary Lorimer (chercheuse en conception)
 * Martha Edwards (chercheuse en conception)
 * Mel Banyard (chercheuse en conception)
