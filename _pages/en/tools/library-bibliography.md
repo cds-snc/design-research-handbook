@@ -15,6 +15,7 @@ _Books, papers and blog posts we like and cite_
 * Ladner, S. (2016). Practical ethnography: A guide to doing ethnography in the private sector. Routledge.
 
 ### Ethics
+* Tri-council policy statement. [Ethical Conduct for Research involving Humans](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf) 
 * UK Government Digital Service. ["Getting informed consent for user research"](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research)
 * Glabau, Danya. (2018). ["Emerging technology and ethics research guide"](https://danyaglabau.com/2018/11/05/emerging-technology-and-ethics-research-guide-v-1-0/)
 
