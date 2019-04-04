@@ -2,9 +2,9 @@
 layout: page
 title:  "Google Drive"
 lang: en
-category: "Tools"
-permalink: "/google-drive/"
-trans_url: "/google-drive-fr/"
+category: "Les outils"
+permalink: "/google-drive-fr/"
+trans_url: "/google-drive/"
 ---
 
 *We use Google Drive to store research team documents.*

@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Safety in the field"
-lang: en
-permalink: "/safety/"
-category: "Best practices"
-trans_url: "/securite/"
+title:  "Sécurité sur le terrain"
+lang: fr
+permalink: "/securite/"
+category: "Les meilleures pratiques"
+trans_url: "/safety/"
 ---
 
 _Not rules, but suggestions to consider as you’re planning research._

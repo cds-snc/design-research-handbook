@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Secure filing cabinet for participant data"
-lang: en
-category: "Tools"
-permalink: "/protected-files/"
-trans_url: "/classeur-a-tiroirs-protege/"
+title:  "Classeur à tiroirs protégé pour les données des participants"
+lang: fr
+category: "Les outils"
+permalink: "/classeur-a-tiroirs-protege/"
+trans_url: "/protected-files/"
 ---
 
 *We put papers with protected personal information in a secure filing cabinet.*

@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Your role as a researcher"
+title:  "Votre rôle à titre de chercheur"
 lang: en
-category: "About"
-permalink: "/your-role/"
-trans_url: "/votre-role/"
+category: "À propos de nous"
+permalink: "/votre-role/"
+trans_url: "/your-role/"
 ---
 
 Our job advertisement is an honest description of what we hope you'll do:

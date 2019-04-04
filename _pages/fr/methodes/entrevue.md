@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Interviewing"
-lang: en
-category: "Methods"
-permalink: "/interviewing/"
-trans_url: "/entrevue/"
+title:  "Entrevue"
+lang: fr
+category: "Méthodes"
+permalink: "/entrevue/"
+trans_url: "/interviewing/"
 ---
 
 

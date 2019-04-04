@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Vision and objectives"
+title:  "Vision et objectifs"
 lang: en
-category: "About"
-permalink: "/vision-objectives/"
-trans_url: "/vision-et-objectifs/"
+category: "À propos de nous"
+permalink: "/vision-et-objectifs/"
+trans_url: "/vision-objectives/"
 ---
 
 ### Team vision

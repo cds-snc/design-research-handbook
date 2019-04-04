@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Library and bibliography"
-lang: en
-category: "Tools"
-permalink: "/library-bibliography/"
-trans_url: "/bibliotheque-bibliographie/"
+title:  "Bibliothèque et bibliographie"
+lang: fr
+category: "Les outils"
+permalink: "/bibliotheque-bibliographie/"
+trans_url: "/library-bibliography/"
 ---
 
 _Books, papers and blog posts we like and cite_

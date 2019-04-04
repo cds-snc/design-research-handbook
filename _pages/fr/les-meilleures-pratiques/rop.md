@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Public opinion research (POR) rules"
-lang: en
-permalink: "/por/"
-category: "Best practices"
-trans_url: "/rop/"
+title:  "Règles de la recherche sur l’opinion publique (ROP)"
+lang: fr
+permalink: "/rop/"
+category: "Les meilleures pratiques"
+trans_url: "/por/"
 ---
 
 "Public opinion research" (POR) is a class of primary research regulated by the Government of Canada. If government agencies conduct POR, they need to follow the POR processes described in the [Directive on the Management of Communications](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682).

@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Equipment for research"
-lang: en
-category: "Tools"
-permalink: "/research-kit/"
-trans_url: "/equipment-de-recherche/"
+title:  "Équipement de recherche"
+lang: fr
+category: "Les outils"
+permalink: "/equipment-de-recherche/"
+trans_url: "/equipment-for-research/"
 ---
 
 ### In sum

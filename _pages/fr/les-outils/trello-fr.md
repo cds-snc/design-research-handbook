@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Trello for internal project tracking"
-lang: en
-category: "Tools"
-permalink: "/trello/"
-trans_url: "/trello-fr/"
+title:  "Trello pour le suivi des projets internes"
+lang: fr
+category: "Les outils"
+permalink: "/trello-fr/"
+trans_url: "/trello/"
 ---
 
 *We use Trello to track research team internal projects.*

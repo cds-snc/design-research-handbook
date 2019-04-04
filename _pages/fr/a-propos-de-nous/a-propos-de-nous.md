@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "About us"
-lang: en
-category: "About"
-permalink: "/about-us/"
-trans_url: "/a-propos-de-nous/"
+title:  "À propos de nous"
+lang: fr
+category: "À propos de nous"
+permalink: "a-propos-de-nous/"
+trans_url: "/about-us/"
 ---
 
 Design research helps build services that meet to human needs. 

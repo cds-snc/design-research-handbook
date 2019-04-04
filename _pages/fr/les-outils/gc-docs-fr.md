@@ -1,11 +1,11 @@
-
 ---
 layout: page
-title:  "GCDocs for protected digital files"
-lang: en
-category: "Tools"
-permalink: "/gc-docs/"
-trans_url: "/gc-docs-fr/"
+title:  "GCdocs pour les dossiers numériques protégés"
+lang: fr
+category: "Les outils"
+permalink: "/gc-docs-fr/"
+trans_url: "/gc-docs/"
+---
 
 *We put files with protected personal information on GCDocs.*
 

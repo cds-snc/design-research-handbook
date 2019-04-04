@@ -1,10 +1,11 @@
 ---
 layout: page
-title:  "Privacy and consent"
-lang: en
-permalink: "/privacy/"
-category: "Best practices"
-trans_url: "/protection-des-renseignements-personnels/"
+title:  "Protection des renseignements personnels et consentement
+"
+lang: fr
+permalink: "/protection-des-renseignements-personnels/"
+category: "Les meilleures pratiques"
+trans_url: "/privacy/"
 ---
 This guide outlines resources processes that help you conduct ethical, policy-compliant research.
 

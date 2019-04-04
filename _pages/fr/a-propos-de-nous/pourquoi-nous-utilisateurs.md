@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Why we don't say 'users'"
-lang: en
-category: "About"
-permalink: "/why-not-users/"
-trans_url: "/pourquoi-nous-utilisateurs/"
+title:  "Pourquoi nous ne disons pas « utilisateurs »"
+lang: fr
+category: "À propos de nous"
+permalink: "/pourquoi-nous-utilisateurs/"
+trans_url: "/why-not-users/"
 ---
 
 These word choices seem minor, but they subtly influence what we do. They also signal our maturity to our peers and job candidates.

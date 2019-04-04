@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Airtable for study tracking"
-lang: en
-category: "Tools"
-permalink: "/airtable/"
-trans_url: "/airtable-fr/"
+title:  "Airtable pour le suivi de l’étude"
+lang: fr
+category: "Les outils"
+permalink: "/airtable-fr/"
+trans_url: "/airtable/"
 ---
 
 *We use Airtable to track key data about the studies we run.*

@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Team meetings and communications"
-lang: en
-category: "About"
-permalink: "/team-meetings/"
-trans_url: "/reunions-d-equipe/"
+title:  "Réunions d’équipe et communications"
+lang: fr
+category: "À propos de nous"
+permalink: "/reunions-d-equipe/"
+trans_url: "/team-meetings/"
 ---
 
 ### Team meetings and rituals

@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Usability testing"
-lang: en
-category: "Methods"
-permalink: "/usability-testing/"
-trans_url: "/tests-de-facilite-d-emploi/"
+title:  "Tests de facilité d’emploi"
+lang: fr
+category: "Méthodes"
+permalink: "/tests-de-facilite-d-emploi/"
+trans_url: "/usability-testing/"
 ---
 ### What is usability testing?
 Usability testing is asking people to complete tasks and observing what happens.

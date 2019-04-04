@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Research room"
-lang: en
-category: "Tools"
-permalink: "/research-room/"
-trans_url: "/salle-de-recherche/"
+title:  "Salle de recherche"
+lang: fr
+category: "Les outils"
+permalink: "/salle-de-recherche/"
+trans_url: "/research-room/"
 ---
 
 *You can use the research room at our Ottawa office to host interviews or usability tests.*

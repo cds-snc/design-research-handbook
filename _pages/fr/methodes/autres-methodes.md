@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Other methods"
+title:  "Autres méthodes"
 lang: en
 category: "Methods"
 permalink: "/other-methods/"
-trans_url: "/autres-methodes/"
+trans_url: "/fr-needed/"
 ---
 
 _Methods we haven't used as much, but should use more!_
