@@ -16,6 +16,7 @@ It's room 14134, the small room near the outreach team.
 For interviewing:
  - Two comfy chairs
  - A small laptop or coffee table
+
 For usability testing:
  - A work table
  - Two fixed chairs
