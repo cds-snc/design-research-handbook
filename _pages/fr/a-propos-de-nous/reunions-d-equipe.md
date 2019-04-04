@@ -50,7 +50,7 @@ tout autre sujet dont vous voudriez discuter.
 
 ### Chaînes de communication
 
-* [#research-team sur Slack](https://gcdigital.slack.com/messages/GD4QR095W/details/) est une chaîne privée destinée uniquement aux chercheurs. Nous utilisons cette chaîne de communications qui est pertinente seulement pour nous. Bien que la chaîne soit cachée, une demande d’accès à l’information pourrait la rendre publique.  [#designresearch sur Slack](https://gcdigital.slack.com/messages/GD4QR095W/details/) est la chaîne destinée à toute personne intéressée par la recherche en conception. Nous nous servons de cette chaîne (liée à la recherche) pour toute discussion qui pourrait intéresser le SNC.
+* [#research-team sur Slack](https://gcdigital.slack.com/messages/GD4QR095W/details/) est une chaîne privée destinée uniquement aux chercheurs. Nous l'utilisons pour partager de l'information pertinente seulement pour nous. Bien que la chaîne soit cachée, une demande d’accès à l’information pourrait la rendre publique.  [#designresearch sur Slack](https://gcdigital.slack.com/messages/GD4QR095W/details/) est la chaîne destinée à toute personne intéressée par la recherche en conception. Nous nous servons de cette chaîne (liée à la recherche) pour toute discussion qui pourrait intéresser le SNC.
 * Nous nous servons très peu du *courriel* pour communiquer au sein de notre équipe. Slack est mieux adapté à nos besoins.
 
 _– La dernière mise à jour a été effectuée par Colin le 14 mars 2019._
