@@ -7,7 +7,7 @@ permalink: "/about-us/"
 trans_url: "/a-propos-de-nous/"
 ---
 
-Design research helps build services that meet to human needs. 
+Design research helps build services that meet human needs. 
 
 ### Who we are
 * Colin MacArthur (head of design research)
@@ -18,7 +18,7 @@ Design research helps build services that meet to human needs.
 * Mel Banyard (design researcher)
 
 ### What we do
-We help product team's identify user needs that inform design and development.
+We help product teams identify user needs that inform design and development.
 We do that by:
 - Planning research activities that bring clarify to the goals and problems at hand.
 - Conducting field research with end users, while bringing the team along for the journey.
