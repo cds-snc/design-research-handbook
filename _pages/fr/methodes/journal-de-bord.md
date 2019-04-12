@@ -17,14 +17,16 @@ environnement contrôlé.
 Les données recueillies conduisent à une compréhension profonde des utilisateurs cibles, de leurs activités ou du contexte
 dans lequel s'inscrivent ces dernieres.
 
-### Dans quelles situations utiliser un journal de bord?
+### Éléments clés des journaux de bord.
+
+### 1. Situations dans lesquelles utiliser un journal de bord.
 Outils d'évaluation et d'exploration, les journaux de bord sont utiles pour:
 * Évaluer des prototypes en cours de développement
 * Évaluer un service ou produit existant pour comprendre ce qui peut être amélioré
 * Explorer les usages et les habitudes des personnes et d'en dériver des idées, inspirations ou spécifications pour la
 conception d'un nouveau système
 
-### Comment mettre en place un journal de bord?
+### 2.Mise en place d'un journal de bord.
 En terme de contenu, le journal de bord rassemble généralement des données factuelles (date, heure, lieu, activité) et des 
 données subjectives (sentiments, émotions, humeur...). Que ce soit en format papier ou életronique, cette méthode nécessite 
 des participants motivés et consciencieux qui auront la rigueur de rentrer leurs données de manière fréquente et régulière.
@@ -33,4 +35,13 @@ ou à chaque fois qu'un événement prédéfini survient.
 les journaux de bord ne nécessitent pas un grand nombre de participants. Pour avoir 8 à 10 journaux expoitables, il est
 conseillé de recruter au moins 12 à 15 personnes.
 
-source : Méthodes de design UX. Carine Lallemand & Guillaume Gronier. Editions Eyrolles. 2016.page 435-447.
+### Ressources
+
+#### Provenant de sources externes
+
+* ["Journaux de bord UX : une méthode d’évaluation longitudinale" de UX Mind](https://uxmind.eu/2014/06/27/journaux-de-bord-ux-une-methode-devaluation-longitudinale/)
+* ["Utiliser des journaux de bord pour évaluer l’UX" de UX Mind](https://uxmind.eu/2012/06/10/using-diaries-to-study-ux-explication-application/)
+* Lallemand, C & Gronier, G.(2016). Méthodes de design UX. Editions Eyrolles.page 435-447.
+
+
+_- La dernière mise à jour a été effectuée par Antoine le 12 avril 2019._
