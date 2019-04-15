@@ -34,4 +34,5 @@ To gather great insights, it is advisable to recruit at least 12 to 15 persons.
 ### Resources
 ### From external sources
 * [Lallemand, C. (2012). Dear Diary: Using Diaries to Study User Experience. User Experience Magazine, 11(3)](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#toc3)
+* [Diary Studies: Understanding Long-Term User Behavior and Experiences](https://www.nngroup.com/articles/diary-studies/)
 * [Davis et Rafaeli (2003). Diary method: Capturing Life as it is Lived](http://www.columbia.edu/~nb2229/docs/bolger-davis-rafaeli-arp-2003.pdf)
