@@ -7,7 +7,7 @@ permalink: "/vision-et-objectifs/"
 trans_url: "/vision-objectives/"
 ---
 
-### Team vision
+### Vision de l'équipe
 
 Pour changer le gouvernement afin d’assurer un meilleur service aux personnes, tous les ministères importants effectueront
 * une recherche en conception qui éclaire les services clés (et les politiques connexes) tous les mois,
