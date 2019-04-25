@@ -27,7 +27,7 @@ _Méthodes dont on ne s’est pas beaucoup servi, mais qu’on devrait utiliser 
 
 **Par où commencer?** Parlez à l’équipe des plateformes et lisez cette ["introduction to multivariate testing"](https://github.com/dwyl/learn-ab-and-multivariate-testing).
 
-#### Observation
+#### Observation.
 
 **Quand utiliser?** Lorsque vous avez besoin de mieux comprendre le contexte de travail.
 
