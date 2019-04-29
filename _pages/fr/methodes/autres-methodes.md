@@ -31,6 +31,6 @@ _Méthodes dont on ne s’est pas beaucoup servi, mais qu’on devrait utiliser 
 
 **Quand utiliser?** Lorsque vous avez besoin de mieux comprendre le contexte de travail.
 
-**Par où commencer?** Lisez l’ ["UXMatters introduction to participant observation"](httpshttpshttps://www.uxmatters.com/mt/archives/2014/01/participatory-observation.php).
+**Par où commencer?** Lisez l’ ["UXMatters introduction to participant observation"](https://www.uxmatters.com/mt/archives/2014/01/participatory-observation.php).
 
-_- La dernière mise à jour a été effectuée par Colin le 14 mars 2019._
+_- La dernière mise à jour a été effectuée par Antoine le 29 avril 2019._
