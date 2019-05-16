@@ -92,4 +92,4 @@ _Instead, ask people to:_
 #### From us
 * ["Five keys to interviewing" research community meeting](https://docs.google.com/document/d/10yAV4DzfJfwwg9-9JirBguo3eMxuZPw6bigbfSDUqhQ/edit?usp=drive_web&ouid=115428102159383580616)
 
-_- Last updated by Colin on March 14, 2019_
+_- Last updated by Colin on March 14, 2019
