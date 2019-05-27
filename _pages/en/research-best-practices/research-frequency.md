@@ -38,5 +38,4 @@ Fast past research can come at the expense of groups that are harder to recruit 
 #### G. Your researcher and team don't burn out.
 Research is intellectually, emotionally and physically consuming. Tired researchers don't do their best work. Tired teams aren't the most supportive. Conduct research at a speed that's challenging, but not overwhelming.
 
-
 _- Last updated by Colin on May 27, 2019_
