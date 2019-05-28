@@ -11,6 +11,7 @@ Having many people to try using a website and measuring their behaviuor or respo
 * Often, large scale testing requires so many people, it must be **automated**. Automated testing doesn't need a researcher to run sessions.
 * Large scale results are easiest to interpret when comparing sites against each other, or **benchmarking**.
 
+![Large scale usability testing process map]({{ site.baseurl}}/assets/img/large-scale-process.jpg)
 
 ### Key elements of large scale testing
 #### Make a plan.
