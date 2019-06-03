@@ -19,26 +19,19 @@ How often should you usability test in alpha and beta? How often should you cond
 
 Check each statement you agree with.
 
-<input type="checkbox"> **1. We make major delivery decisions based on research.**
-We decide what to build, how to build it, and what order to build it in, based on research. Conduct research often enough that you can make those decisions based on research.
+1. <input type="checkbox"> **We make major delivery decisions based on research.** We decide what to build, how to build it, and what order to build it in, based on research. Conduct research often enough that you can make those decisions based on research.
 
-<input type="checkbox">  **2. We identify substantial issues before we release to the public.**
-Our research doesn't just help us make decisions; it also identifies problems we didn't know we had. Conduct research often enough that you can identify those problems before you release.
+2. <input type="checkbox">  **We identify substantial issues before we release to the public.** Our research doesn't just help us make decisions; it also identifies problems we didn't know we had. Conduct research often enough that you can identify those problems before you release.
 
-<input type="checkbox">  **3. We test whether we actually fixed the issues we've found.**
-When we try to fix issues, we can sometimes make them worse. Conduct research often enough that we can be sure our fixes have the intended effect.
+3. <input type="checkbox">  **We test whether we actually fixed the issues we've found.** When we try to fix issues, we can sometimes make them worse. Conduct research often enough that we can be sure our fixes have the intended effect.
 
-<input type="checkbox">  **4. We don't just conduct research to support decisions we've already made.**
-We think about how research informs design before plunging ahead into building more. We're not just conducting research to test things we've already built. Conduct research slowly enough that you figure out what's happening.  
+4. <input type="checkbox">  **We don't just conduct research to support decisions we've already made.** We think about how research informs design before plunging ahead into building more. We're not just conducting research to test things we've already built. Conduct research slowly enough that you figure out what's happening.  
 
-<input type="checkbox">  **5. We have enough time to address major issues before testing again.**
-We don't retest and find the same issues over and over again. Conduct research at a pace that allows you to fix problems before you test again.
+5. <input type="checkbox">  **We have enough time to address major issues before testing again.** We don't retest and find the same issues over and over again. Conduct research at a pace that allows you to fix problems before you test again.
 
-<input type="checkbox">  **6. We include all the participants we should (including preferred language, assistive technology, bandwidth).**
-Fast past research can come at the expense of groups that are harder to recruit or take longer to interview. We often forget to include people with disabilities. Or people with low bandwidth in our testing. Research isn't complete without them. Conduct research at a pace that allows us to include and listen to everyone.
+6. <input type="checkbox">  **We include all the participants we should (including preferred language, assistive technology, bandwidth).** Fast past research can come at the expense of groups that are harder to recruit or take longer to interview. We often forget to include people with disabilities. Or people with low bandwidth in our testing. Research isn't complete without them. Conduct research at a pace that allows us to include and listen to everyone.
 
-<input type="checkbox">  **7. Our team and researcher isn't burnt out.**
-Research is intellectually, emotionally and physically consuming. Tired researchers don't do their best work. Tired teams aren't the most supportive. Conduct research at a speed that's challenging, but not overwhelming.
+7. <input type="checkbox">  **Our team and researcher isn't burnt out.** Research is intellectually, emotionally and physically consuming. Tired researchers don't do their best work. Tired teams aren't the most supportive. Conduct research at a speed that's challenging, but not overwhelming.
 
 ### Scoring the self assessment
 * Did you check six or seven boxes? You're doing well. Pat yourself on the back.
