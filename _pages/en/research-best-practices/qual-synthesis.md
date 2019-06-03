@@ -33,4 +33,4 @@ In any tool (Trello, stickies, or spreadsheets), in any place (online, offline),
 * **To be more inclusive,** you can include your team in more of these steps.
 * **You can't have all three.** You have to pick two, or do a moderate job of both.
 
-_For ideas about how to balance these three, try the [analysis/synthesis sequence ideas spreadsheet](https://docs.google.com/spreadsheets/d/1TBak_epx_Lc_JHDtY8AWXkjNv8Mc6ZjtmIP5kYBHpRA/edit?usp=sharing). You can select how much you care about each factor, and it will suggest some possible analysis/synthesis steps.
+_For ideas about how to balance these three, try the [analysis/synthesis sequence ideas spreadsheet](https://docs.google.com/spreadsheets/d/1TBak_epx_Lc_JHDtY8AWXkjNv8Mc6ZjtmIP5kYBHpRA/edit?usp=sharing). You can select how much you care about each factor, and it will suggest some possible analysis/synthesis steps._
