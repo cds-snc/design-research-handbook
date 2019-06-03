@@ -15,7 +15,7 @@ Research isn't confined to one phase of product development. And each phase of p
 ### There's no simple guideline for how often research should happen.
 How often should you usability test in alpha and beta? How often should you conduct interviews in discovery? There is no simple answer to these questions. Instead, conduct research often enough that you score well on the following self-assement.
 
-### Use this self-assessment to evaluate whether you're conducting research at the right pace:
+### Use this self-assessment to evaluate your research pace:
 
 Check each statement you agree with.
 
@@ -40,7 +40,7 @@ Fast past research can come at the expense of groups that are harder to recruit 
 <input type="checkbox">  **7. Our team and researcher isn't burnt out.**
 Research is intellectually, emotionally and physically consuming. Tired researchers don't do their best work. Tired teams aren't the most supportive. Conduct research at a speed that's challenging, but not overwhelming.
 
-_Scoring the self assessment_
+### Scoring the self assessment
 * Did you check six or seven boxes? You're doing well. Pat yourself on the back.
 * Did you not check numbers 1-3? Consider ways to speed up your research. You're likely conducting high quality research that isn't as influential as it might be.
 * Did you not check numbers 4-7? Consider ways to slow down your research. You may be conducting enough research, but could make better use of it.
