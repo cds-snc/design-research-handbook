@@ -3,7 +3,7 @@ layout: page
 title:  "Qualitative data synthesis/analysis"
 lang: en
 permalink: "/qual-synthesis/"
-category: "Best practices"
+category: "Methods"
 trans_url: "/fr-needed/"
 ---
 
