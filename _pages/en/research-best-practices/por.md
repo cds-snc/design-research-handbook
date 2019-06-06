@@ -1,24 +1,21 @@
 ---
 layout: page
-title:  "Public opinion research (POR) rules"
+title:  "Design research vs. public opinion research"
 lang: en
 permalink: "/por/"
-category: "Best practices"
+category: "About"
 trans_url: "/rop/"
 ---
 
-"Public opinion research" (POR) is a class of primary research regulated by the Government of Canada. If government agencies conduct POR, they need to follow the POR processes described in the [Directive on the Management of Communications](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=30682).
+CDS' design research is different than traditional government [public opinion research](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html). 
 
-As the ["Defining public opinion research"](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#h-1) guidance states:
+Our design research has a:
+* **Different purpose:** Our design research focuses on understanding people's goals, behaviors and obstacles. It doesn't focus on overall opinions of the government or its services. It examines how people use services, and to what end.
+* **Different questions:** Our design research doesn't ask people what how they view a service. It focuses on identifying what they need from a service based on their goals and behaviors. 
+* **Different frequency:** Our design research happens repeatedly throughout the design of a service. We conduct a little design research, often.
 
->> User research that involves only using observation techniques and collecting fact-based information is normally not considered public opinion research. 
+Design research can complement traditional public opinion research: 
+* Design research studies how people actually use (or would use) a service, not just their opinions of it. It can help surface the details of how to make a service better based on the obstacles people face.
+* Design research minimizes risk throughout project development. Design research happens a little and often throughout the services life. 
 
->> Behavioural research is generally defined as how people react or behave in a given situation. Factual research often answers who, what, when or where.
-
-Most of our research focuses on people's behaviours or past actions. That research is factual and behavioural, so it doesn't fall within the definition of POR.
-It's possible to construct design research that is POR. If you ask questions about people's opinions policy or government, you may be doing POR. 
-
-If you don't know whether your research is POR or not, speak to our policy team.
-
-
-_- Last updated by Colin on March 25, 2019_
+_- Last updated by Colin on June 6, 2019_
