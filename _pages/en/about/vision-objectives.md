@@ -2,7 +2,7 @@
 layout: page
 title:  "Vision and objectives"
 lang: en
-category: "About"
+category: "About us"
 permalink: "/vision-objectives/"
 trans_url: "/vision-et-objectifs/"
 ---
@@ -18,7 +18,7 @@ This vision guides the objectives we set and key decisions we make.
 
 ### Objectives
 
-Each quarter we (like all teams at CDS) set objectives and key results (or OKRs). 
+Each quarter we (like all teams at CDS) set objectives and key results (or OKRs).
 Objectives are overarching goals. Key results are concrete manifestations of each objective. Read more about the [origin of OKRs from Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/).
 
 #### Current quarter objectives
@@ -41,7 +41,7 @@ We note progress on key results weekly and score them monthly. Watch our progres
  * we reflect on (or "retro") the last quarter.
  * team members propose possible objectives for the coming quarter and we vote on them.
  * assign a "lead" to each of our objectives
-2. Each objective lead then drafts a set of key results for that objective. They work with Colin and the team to get feedback and objectives. 
+2. Each objective lead then drafts a set of key results for that objective. They work with Colin and the team to get feedback and objectives.
 3. Then, the whole team meets with Aaron (chief executive officer) and Ross (head of delivery). We review last quarter's scores and this quarter's feedback.
 4. Colin then loads up an OKR tracking spreadsheet [like this one](https://docs.google.com/spreadsheets/d/1PHSA14FN6d0l-RfceFHuUY7JDmPaAID17Mtz011gJUU/edit#gid=0) for us to track progress.
 

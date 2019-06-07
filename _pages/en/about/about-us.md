@@ -2,12 +2,12 @@
 layout: page
 title:  "About us"
 lang: en
-category: "About"
+category: "About us"
 permalink: "/about-us/"
 trans_url: "/a-propos-de-nous/"
 ---
 
-Design research helps build services that meet human needs. 
+Design research helps build services that meet human needs.
 
 ### Who we are
 * Colin MacArthur (head of design research)
@@ -56,7 +56,7 @@ Nothing is more powerful than being in the field and listening to the end user t
 
 **Be a research champion. Involve yourself in research and improve your research skills.**
 
-- Attend the bi-weekly research community meetings. 
-- Hang out with us. Let’s get coffee. :) 
+- Attend the bi-weekly research community meetings.
+- Hang out with us. Let’s get coffee. :)
 
 _- Last updated by Colin on March 14, 2019_

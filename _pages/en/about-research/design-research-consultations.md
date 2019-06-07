@@ -2,12 +2,12 @@
 layout: page
 title:  "Design research vs. consultations"
 lang: en
-category: "About"
+category: "About design research"
 permalink: "/design-research-biz-reqs/"
 trans_url: "/fr-needed/"
 ---
 
-Design research is different than traditional government consultantations. 
+Design research is different than traditional government consultantations.
 
 Consultations often:
 * Focus on gathering the public's views, ideas and concerns

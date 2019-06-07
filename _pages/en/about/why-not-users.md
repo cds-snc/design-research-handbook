@@ -2,7 +2,7 @@
 layout: page
 title:  "Why we don't say 'users'"
 lang: en
-category: "About"
+category: "About us"
 permalink: "/why-not-users/"
 trans_url: "/pourquoi-nous-utilisateurs/"
 ---
@@ -12,8 +12,8 @@ These word choices seem minor, but they subtly influence what we do. They also s
 Let’s try to say…
 - *“usability testing” instead of “user testing.”* User testing implies we’re testing the users (we’re not). User testing also sounds like "user acceptance testing," which is not the same thing.
 
-- *“people” instead of “users.”* Why? 
-    * People are more than users of our systems. When we refer to them as users, it's easy to forget their other, more important identities. 
+- *“people” instead of “users.”* Why?
+    * People are more than users of our systems. When we refer to them as users, it's easy to forget their other, more important identities.
     * Users is an imprecise word. Which users? The public? The civil servants who support the system?
 - *“human-centred design” instead of “user-centred design.”* If we try to avoid saying users, we should also use the alternative to “user-entered design.”
 

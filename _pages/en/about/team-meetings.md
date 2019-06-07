@@ -2,7 +2,7 @@
 layout: page
 title:  "Team meetings and communications"
 lang: en
-category: "About"
+category: "About us"
 permalink: "/team-meetings/"
 trans_url: "/reunions-d-equipe/"
 ---
@@ -28,13 +28,13 @@ _Ask Colin for calendar invitations to these meetings if you don't already have 
  * A retro
  * Best practices for a certain area
  * Introduction to a new tool
- 
+
 * **Research community meeting on Wednesdays from 10:30-11:30 AM ET**
  * Attendees: Anyone interested in design research at CDS, not just researchers
  * Frequency: Every other week
  * Purpose: Share updates and discuss important issues
  * Agenda: A workshop by a researcher about a topic of interest to non-researchers at CDS. We track coming presentations on the [Trello board]({{ site.baseurl }}/trello). See this [Google Drive folder of past presentations](https://drive.google.com/drive/folders/1MLZZ14YNoGiWC-GagP7oW1oMbr1rJ4Yk).
- 
+
 * **One-on-ones with Colin weekly**
  * Attendees: You and Colin
  * Frequency: Every other week
@@ -44,7 +44,7 @@ _Ask Colin for calendar invitations to these meetings if you don't already have 
  * Blockers facing your product's research
  * Progress on your OKRs
  * Whatever else you'd like to discuss
- 
+
 * **Team lunch monthly** Optional. We go out to lunch every month or so as a team to chat without a set agenda.
 
 * **Team retreat quarterly** We meet for 4-5 hours toward the end of each quarter to reflect and plan for the next. See the [objectives setting process]({{ site.baseurl }}/vision-objectives) page for more details.
