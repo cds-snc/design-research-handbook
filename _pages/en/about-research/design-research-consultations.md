@@ -3,7 +3,7 @@ layout: page
 title:  "Design research vs. consultations"
 lang: en
 category: "About design research"
-permalink: "/design-research-biz-reqs/"
+permalink: "/design-research-consultations/"
 trans_url: "/fr-needed/"
 ---
 
@@ -22,7 +22,7 @@ Design research has a:
 * **Different frequency:** Design research happens a little and often. It should happen monthly, not yearly.
 
 Design research can complement traditional consultation processes.
-* Design research studies how people actually use (or would use) a service, not just their ideas for it. It focuses on what people need based on their behaviors, not wishes. Consultation  gathers views, but less data about how people actually use a service.
+* Design research studies how people actually use (or would use) a service, not just their ideas for it. It focuses on what people need based on their behaviors, not wishes. Consultation gathers views, but less data about how people actually use a service.
 * Design research raises the voices of people who use a service. Consultations valuably surface the views of all a service's stakeholders. But without design research, we can mistake stakeholder opinions for users' needs.
 * Design research minimizes risk throughout project development. Design research happens a little and often throughout the services life. Without it, we don't know whether the ideas we hear at the beginning actually help
 
