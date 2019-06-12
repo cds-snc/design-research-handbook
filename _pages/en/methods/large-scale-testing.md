@@ -32,7 +32,7 @@ To get a large enough sample for your research, you can:
 
 #### Instrument your website.
 Participants use a version of your website that can measure their reactions. There are a few ways to do this:
-  * **At the least, set up an analytics-equipped version of each site you want to test at unique URL**. Make sure Google Analytics gathers the metrics you want to collect. You'll steer test participants do this version of the website. You need to set up a special version for each site you want to include in your test. This approach works well for participant panels or microtaskers.
+  * **At the least, set up an analytics-equipped version of each site you want to test at unique URL**. Make sure Google Analytics gathers the metrics you want to collect. You'll steer test participants to this version of the website. You need to set up a special version for each site you want to include in your test. This approach works well for participant panels or microtaskers.
   * **Also, you can ask participants to complete a short survey after they use the websites.**
 You can steer them to a short Google Form that contains SEQ, comprehension questions. Don't ask more than 5 questions. Do not collect any protected information from participants or ask public opinion research.
 
