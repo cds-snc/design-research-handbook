@@ -10,7 +10,7 @@ trans_url: "/gc-docs-fr/"
 *We put files with protected personal information on GCDocs.*
 
 ### How to get to GCDocs
-- On your TBS computer, double click the "GCDOCs" icon on your desktop.
+- On your TBS computer, double click the "GCDOCs" icon on your desktop. Or, you can [navigate to our research folder directly](https://gcdocsp.tbssct.local/gcdocs/llisapi.dll?func=ll&objId=34800438&objAction=browse).
 - If you're not on the TBS network, you will have to connect to the VPN before your open GCDocs.
 
 ### What we put on GCDocs
