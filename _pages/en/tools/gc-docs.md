@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title:  "GCDocs for protected digital files"
@@ -6,6 +5,7 @@ lang: en
 category: "Tools"
 permalink: "/gc-docs/"
 trans_url: "/gc-docs-fr/"
+---
 
 *We put files with protected personal information on GCDocs.*
 
