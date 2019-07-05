@@ -10,7 +10,7 @@ trans_url: "/gc-docs/"
 *Nous avons stocké des dossiers contenant des renseignements personnels protégés sur GCdocs.*
 
 ### Comment accéder à GCdocs
-- Sur votre ordinateur du SCT, cliquez deux fois sur l’icône « GCdocs » se trouvant sur votre bureau. Ou utilisez ce [lien qui vous amène directement au dossier de recherche](https://gcdocsp.tbssct.local/gcdocs/llisapi.dll?func=ll&objId=34800438&objAction=browse).
+- Sur votre ordinateur du SCT, utilisez ce [lien qui vous amène directement au dossier de recherche](https://gcdocsp.tbssct.local/gcdocs/llisapi.dll?func=ll&objId=34800438&objAction=browse).
 - Si vous n’êtes pas sur le réseau du SCT, vous devrez vous connecter au réseau privé virtuel avant d’ouvrir GCdocs.
 
 ### Ce que nous stockons sur GCdocs
