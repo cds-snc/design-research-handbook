@@ -42,7 +42,7 @@ Félicitations, c'est fini ! Vous pouvez copier l'URL et l'envoyer à un autre c
 En règle générale, **ne cliquez pas sur « Ouvrir » ou « Modifier »**. Il se peut que les modifications ne s'enregistrent pas correctement si vous le faites.
 
 ### Ce que nous stockons sur GCdocs
-Tous les documents numériques qui représentent de [prenseignements protégés]({{site.baseurl}}/protection-des-renseignements-personnels), dont les suivants :
+Tous les documents numériques qui représentent de [renseignements protégés]({{site.baseurl}}/protection-des-renseignements-personnels), dont les suivants :
 - les répertoires de participants de recherche (dont les noms, les adresses courriel et les numéros de téléphone)
 - les notes de recherche brutes
 - les enregistrements des séances de recherche
