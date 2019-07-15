@@ -2,7 +2,7 @@
 layout: page
 title:  "Research critique"
 lang: en
-permalink: "/research-frequency/"
+permalink: "/research-critique/"
 category: "Best practices"
 trans_url: "/fr-needed/"
 ---
