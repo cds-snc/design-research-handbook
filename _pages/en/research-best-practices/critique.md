@@ -45,3 +45,4 @@ During each half hour:
 * Watch your body language. 
   * Receiving critique makes most people feel vulnerable. Givers should be encouraging and warm. 
   * On the flip side, it’s hard to give honest feedback. Recipients should also encourage and thank givers. 
+* Don't say who said what in critique group. When sharing feedback to your team from critique group, say "my critique group said." not "[person] said." Likewise, don't expect external credit for what you suggest in a group. Ideas flow freely. 
