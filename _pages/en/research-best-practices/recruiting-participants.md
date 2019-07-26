@@ -4,7 +4,7 @@ title:  "Recruiting participants for moderated research studies"
 lang: en
 permalink: "/recruiting-participants/"
 category: "Best practices"
-trans_url: "/fr-needed/"
+trans_url: "/recrutement-de-participants/"
 ---
 
 ### General tips
