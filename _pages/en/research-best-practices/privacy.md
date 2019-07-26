@@ -11,7 +11,7 @@ This guide outlines resources processes that help you conduct ethical, policy-co
 This guide is a work in progress – if you have any questions please contact a member of the policy or research team.
 
 ### What the policy team provides
-- Establishes the framework and policy processes are for a given research activity
+- Establishes the framework and policy processes for a given research activity
 - Clears the bureaucracy so researchers can do their job
 
 ### What design researchers provide
@@ -40,7 +40,7 @@ Your @tbs-sct.gc.ca email. Personal information is protected and must remain on 
 - You can use your MacBooks and CDS email accounts for outreach to organizations. As soon as you’re exchanging personal information, you should use your TBS devices. It’s safer to stick to TBS devices and accounts.
 
 #### What is protected data?
-Generally speaking, any personal information is protected.
+Generally speaking, any personal information is protected. Place "PROTECTED A when completed" or "PROTECTED B when completed" text in the top right heading of documents/forms, where you'll be collecting protected data. 
 
 #### Where should I store protected data? Macbook? Tablet?
 Store all protected data on your TBS tablet. Don’t send it (e.g. via an email) outside of the TBS system. 
@@ -48,10 +48,10 @@ Store all protected data on your TBS tablet. Don’t send it (e.g. via an email)
 #### How long do I need to hold on to consent forms?
 We should hold on to consent forms for as long as we’re using the data from those research sessions. As a rough rule, that would be until the end of CDS’s involvement with a product.
 
-If the consent form allows participants to withdraw . (e.g., if the research was confidential.) 
+If the consent form allows participants to withdraw, consent forms should be kept for ____________. (e.g., if the research was confidential.) 
 
 #### Where should I keep consent forms? (physical vs digital)
-Store digital privacy and consent forms should  on your TBS tablet.
+Store digital privacy and consent forms on your TBS tablet.
 
 Physical privacy and consent forms should be stored in the secure filing cabinet.
 
@@ -79,11 +79,11 @@ A partner cannot send us an unsolicited spreadsheet with personal information. W
 - the data must be in one of the standard personal information banks, like PSU 938 “Outreach”.
 
 #### What can I digitize from paper notes? Where can I store that digitized information?
-Digitize paper notes by typing them up on your TBS tablet or scanning them with TBS equipment.  Don't use unprotected scanners, like those connected to our MacBooks.
+Digitize paper notes by typing them up on your TBS tablet (not on Google Drive) or scanning them with TBS equipment.  Don't use unprotected scanners, like those connected to our MacBooks.
 
 Store digitized notes on your TBS devices. Share them with others via TBS email or GCDocs.
 
-#### If I want to take digital notes, where I can I store that?
+#### If I want to take digital notes, where I can I store them?
 Use your TBS devices (TBS-issued phone, in the secure section) or your tablet.
 
 ### Resources
@@ -119,17 +119,15 @@ When to use: In partnership with policy to generate forms for research.
  
 ### Keywords and acronyms
 A more complete set of definitions can be found in the Privacy and Consent Framework.
-PII
 
-#### Personally Identifiable Information
+#### Personally Identifiable Information (PII)
 Any single data element that identifies a specific individual. Any information that can be used to distinguish one person from another and can be used for de-anonymizing anonymous data can be considered PII. 
 ATIP
 
 #### Access to Information and Privacy
 The Access to Information Act gives every Canadian citizen, permanent resident, individual or corporation in Canada the right to request access to records that are under the control of federal government institutions, regardless of their format. The Treasury Board Secretariat ATIP office reviews our privacy and consent notices. 
-PIB
 
-#### Personal Information Bank
+#### Personal Information Bank (PIB)
 Descriptions of personal information under the control of a government institution that is organized and retrievable by an individual's name or by a number, symbol or other element that identifies that individual.
 
 #### Confidential
@@ -152,9 +150,9 @@ Discuss these questions as you conduct research. Work with your policy analyst t
 - Who will be conducting the research?
 - Has the department done user research before?
 - What kind of authority to collect information does the partner department have?
-- How do will we share research findings?
+- How will we share research findings?
 - Will the department help us find research participants?
-- ill we be collecting any personal information during the recruitment process?
+- Will we be collecting any personal information during the recruitment process?
 
 #### Service overview
 - Critical questions to answer: 
@@ -173,7 +171,7 @@ Discuss these questions as you conduct research. Work with your policy analyst t
     - What technologies will we use?
     - How will we record and store findings?
     - How sensitive is the data we will collected? How will we obscure the personal information?
-    - How will collect consent?
+    - How will collect and store consent?
 
 #### Refining your target audience
 - Critical questions to answer: 
