@@ -142,7 +142,7 @@ A level of confidentiality. Anonymized or depersonalized data is initially colle
 #### Protected Information
 Applies to information or assets that, if compromised, could reasonably be expected to cause injury to a non-national interest—that is, an individual interest such as a person or an organization.
 
-### What to to know, by research phase
+### What to know, by research phase
 So, you’re caught up and ready for research?
 Discuss these questions as you conduct research. Work with your policy analyst to answer these questions as you move from start to finish on a study. 
 
@@ -170,8 +170,8 @@ Discuss these questions as you conduct research. Work with your policy analyst t
 - Good-to-have answers: 
     - What technologies will we use?
     - How will we record and store findings?
-    - How sensitive is the data we will collected? How will we obscure the personal information?
-    - How will collect and store consent?
+    - How sensitive is the data we will collect? How will we obscure the personal information?
+    - How will we collect and store consent?
 
 #### Refining your target audience
 - Critical questions to answer: 
