@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Interviewing"
+title:  "Diary study"
 lang: en
 category: "Methods"
 permalink: "/diary-study/"
@@ -21,12 +21,12 @@ Diary studies are useful to:
 * Explore the uses and habits of people and derive ideas, inspirations or specifications for the design of a new system
 
 ### 2. Manage a diary study.
-In terms of content, the diary study generally gathers factual data (date, time, place, activity) and subjective data (feelings, emotions, mood ...). Whether in paper or electronic format, this method requires motivated and conscientious participants who will have the rigor to enter their data frequently and regularly. 
-the participants will fill in the diary study according to the chosen protocol: 
+In terms of content, the diary study generally gathers factual data (date, time, place, activity) and subjective data (feelings, emotions, mood ...). Whether in paper or electronic format, this method requires motivated and conscientious participants who will have the rigor to enter their data frequently and regularly.
+the participants will fill in the diary study according to the chosen protocol:
 * at intervals
 * as soon as a signal asks them to do so
 * whenever a predefined event occurs
-Diary studies do not require a large number of participants. 
+Diary studies do not require a large number of participants.
 To gather great insights, it is advisable to recruit at least 12 to 15 persons.
 
 ### Resources
