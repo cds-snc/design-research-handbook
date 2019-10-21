@@ -9,16 +9,6 @@ trans_url: "/a-propos-de-nous/"
 
 Design research helps build services that meet human needs.
 
-### Who we are
-* Colin MacArthur (head of design research)
-* Mithula Naik
-* Adrianne Lee
-* Anne-Marie Mulumba
-* Antoine Garcia-Suarez
-* Hillary Lorimer
-* Martha Edwards
-* Mel Banyard
-
 ### What we do
 We help product teams identify user needs that inform design and development.
 We do that by:
@@ -59,4 +49,4 @@ Nothing is more powerful than being in the field and listening to the end user t
 - Attend the bi-weekly research community meetings.
 - Hang out with us. Let’s get coffee. :)
 
-_- Last updated by Colin on March 14, 2019_
+_- Last updated by Colin on October 21, 2019_
