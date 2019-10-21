@@ -3,8 +3,8 @@ layout: page
 title:  "Autres méthodes"
 lang: fr
 category: "Méthodes"
-permalink: "/other-methods/"
-trans_url: "/fr-needed/"
+permalink: "/autres-methodes/"
+trans_url: "/other-methods/"
 ---
 
 _Méthodes dont on ne s’est pas beaucoup servi, mais qu’on devrait utiliser plus._
