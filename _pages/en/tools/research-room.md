@@ -2,7 +2,7 @@
 layout: page
 title:  "Research room"
 lang: en
-category: "Tools"
+category: "5. Tools"
 permalink: "/research-room/"
 trans_url: "/salle-de-recherche/"
 ---

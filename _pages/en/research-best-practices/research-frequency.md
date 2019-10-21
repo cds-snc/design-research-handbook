@@ -3,7 +3,7 @@ layout: page
 title:  "Research frequency self-assessment"
 lang: en
 permalink: "/research-frequency/"
-category: "Best practices"
+category: "3. Other best practices"
 trans_url: "/fr-needed/"
 ---
 ### Conduct research repeatedly through all phases of product development.

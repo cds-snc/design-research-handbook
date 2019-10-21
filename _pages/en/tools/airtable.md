@@ -2,7 +2,7 @@
 layout: page
 title:  "Airtable for study tracking"
 lang: en
-category: "Tools"
+category: "5. Tools"
 permalink: "/airtable/"
 trans_url: "/airtable-fr/"
 ---
@@ -26,7 +26,7 @@ Airtable is where we track basic details about what research we conduct where. F
     - Raw research notes
     - Research session recordings
     - Job interviewee notes or evaluations
-    - Store this information in [GCDocs]({{site.baseurl}}/gc-docs) or our [secure filing cabinet]({{site.baseurl}}/protected-files). 
+    - Store this information in [GCDocs]({{site.baseurl}}/gc-docs) or our [secure filing cabinet]({{site.baseurl}}/protected-files).
 - We don't track internal projects on Airtable. Instead, put those projects on [Trello]({{site.baseurl}}/trello).
 
 ### Why do we do this?

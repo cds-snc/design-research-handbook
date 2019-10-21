@@ -2,7 +2,7 @@
 layout: page
 title:  "Design research vs. business requirements gathering"
 lang: en
-category: "About design research"
+category: "6. About design research"
 permalink: "/design-research-biz-reqs/"
 trans_url: "/fr-needed/"
 ---

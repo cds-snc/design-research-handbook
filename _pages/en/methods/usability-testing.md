@@ -2,7 +2,7 @@
 layout: page
 title:  "Usability testing"
 lang: en
-category: "Methods"
+category: "4. Methods"
 permalink: "/usability-testing/"
 trans_url: "/tests-de-facilite-d-emploi/"
 ---
@@ -19,7 +19,7 @@ Usability testing is asking people to complete tasks and observing what happens.
 ### Tips for conducting usability testing at CDS
 * Follow our [guidelines for respecting participants' privacy]({{ site.baseurl }}/privacy). Work with our policy team to create an ATIP-approved consent form before you get started. Speak to the policy analyst on your product team or ask Colin for more help.
 * Interviewing as part of user research is generally exempt from [Government of Canada Public Opinion Research regulation](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#toc3). But follow [our POR tips]({{ site.baseurl }}/por) to steer clear of potential problems.
-* You can use our [equipment]({{ site.baseurl}}/research-kit) and/or [listening room]({{ site.baseurl }}/research-room) for usability testing. 
+* You can use our [equipment]({{ site.baseurl}}/research-kit) and/or [listening room]({{ site.baseurl }}/research-room) for usability testing.
 
 ### Resources
 

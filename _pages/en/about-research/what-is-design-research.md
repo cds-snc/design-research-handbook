@@ -2,7 +2,7 @@
 layout: page
 title:  "What is design research?"
 lang: en
-category: "About design research"
+category: "6. About design research"
 permalink: "/what-is-design-research/"
 trans_url: "/fr-needed/"
 ---

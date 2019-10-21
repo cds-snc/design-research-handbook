@@ -2,7 +2,7 @@
 layout: page
 title:  "Trello for internal project tracking"
 lang: en
-category: "Tools"
+category: "5. Tools"
 permalink: "/trello/"
 trans_url: "/trello-fr/"
 ---
@@ -15,13 +15,13 @@ trans_url: "/trello-fr/"
 - If you need to be able to edit cards, ask Colin for an invitation.
 
 ### What we put on Trello
-Trello is where we track basic information about ongoing, *non-product-specific projects*. We track information like: 
+Trello is where we track basic information about ongoing, *non-product-specific projects*. We track information like:
 - The name of the project (example: "updating the consent form generator")
 - Who's taking the lead on it
 - Notes on project progress
 
 ### What we don't put on Trello
-Like Google Drive or Airtable, Trello can't hold [protected data]({{site.baseurl}}/privacy). Store this information in [GCDocs]({{site.baseurl}}/gc-docs) or our [secure filing cabinet]({{site.baseurl}}/protected-files). 
+Like Google Drive or Airtable, Trello can't hold [protected data]({{site.baseurl}}/privacy). Store this information in [GCDocs]({{site.baseurl}}/gc-docs) or our [secure filing cabinet]({{site.baseurl}}/protected-files).
 
 ### Who uses Trello when
 - **Researchers are responsible for updating their project cards.**

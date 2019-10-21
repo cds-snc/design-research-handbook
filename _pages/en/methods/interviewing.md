@@ -2,7 +2,7 @@
 layout: page
 title:  "Interviewing"
 lang: en
-category: "Methods"
+category: "4. Methods"
 permalink: "/interviewing/"
 trans_url: "/entrevue/"
 ---
@@ -43,7 +43,7 @@ Interviewing is asking people a series of questions and asking for their respons
  *   Circle back when necessary. "I want to go back to what you said earlier."
 *   Be careful about your body language (like nodding) and sounds (like "mmm-hmm"). You want to balance encouraging participants with seeming like you're judging their statements.
 *   Be selective about when you talk about yourself or your opinions. Remember, this interview is about them, not you.
-*   Avoiding interrupting. Let there be a little bit of silence. 
+*   Avoiding interrupting. Let there be a little bit of silence.
 
 
 
@@ -80,7 +80,7 @@ _Instead, ask people to:_
 ### Tips for conducting interviews at CDS
 * Follow our [guidelines for respecting participants' privacy]({{ site.baseurl }}/privacy). Work with our policy team to create an ATIP-approved consent form before you get started. Speak to the policy analyst on your product team or ask Colin for more help.
 * Interviewing, as part of user research, is generally exempt from [Government of Canada Public Opinion Research regulation](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#toc3). But follow [our POR tips]({{ site.baseurl }}/por) to steer clear of potential problems.
-* You can use our [equipment]({{ site.baseurl}}/research-kit) and/or [listening room]({{ site.baseurl }}/research-room) for interviews. 
+* You can use our [equipment]({{ site.baseurl}}/research-kit) and/or [listening room]({{ site.baseurl }}/research-room) for interviews.
 
 ### Resources
 

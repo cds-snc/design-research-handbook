@@ -2,7 +2,7 @@
 layout: page
 title:  "Secure filing cabinet for participant data"
 lang: en
-category: "Tools"
+category: "5. Tools"
 permalink: "/protected-files/"
 trans_url: "/classeur-a-tiroirs-protege/"
 ---

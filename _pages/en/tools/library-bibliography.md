@@ -2,7 +2,7 @@
 layout: page
 title:  "Library and bibliography"
 lang: en
-category: "Tools"
+category: "5. Tools"
 permalink: "/library-bibliography/"
 trans_url: "/bibliotheque-bibliographie/"
 ---
@@ -15,14 +15,14 @@ _Books, papers and blog posts we like and cite_
 * Ladner, S. (2016). Practical ethnography: A guide to doing ethnography in the private sector. Routledge.
 
 ### Ethics
-* Tri-council policy statement. [Ethical Conduct for Research involving Humans](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf) 
+* Tri-council policy statement. [Ethical Conduct for Research involving Humans](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf)
 * UK Government Digital Service. ["Getting informed consent for user research"](https://www.gov.uk/service-manual/user-research/getting-users-consent-for-research)
 * Glabau, Danya. (2018). ["Emerging technology and ethics research guide"](https://danyaglabau.com/2018/11/05/emerging-technology-and-ethics-research-guide-v-1-0/)
 
 ### Interviewing
 * Gazso, A., & Bischoping, K. (2018). [Reframing an Awkward Moment: A Comparison of Two Analytic Strategies for Being Reflexive.](https://www.canadianscholars.ca/books/the-craft-of-qualitative-research.pdf) The Craft of Qualitative Research: A Handbook, 256.
 * Fontana, A., & Frey, J. H. (2000). The interview: [From structured questions to negotiated text. Handbook of qualitative research](https://edisciplinas.usp.br/pluginfile.php/2591329/mod_resource/content/0/Fontana%20%20Frey%20%282000%29%20The%20Interview%20struct%20questions%20negotiated%20text.pdf), 2(6), 645-672.
-* Lippke, L., & Tanggaard, L. (2014). ["Leaning into muddy interviews."](https://docs.google.com/presentation/d/161OLPdWlQdyI80g5X4HMENmT5TIjSGYmt5016RKKcko/edit?usp=drive_web&ouid=115428102159383580616) Qualitative Inquiry, 20(2), 136-143. 
+* Lippke, L., & Tanggaard, L. (2014). ["Leaning into muddy interviews."](https://docs.google.com/presentation/d/161OLPdWlQdyI80g5X4HMENmT5TIjSGYmt5016RKKcko/edit?usp=drive_web&ouid=115428102159383580616) Qualitative Inquiry, 20(2), 136-143.
 * Portigal, S. (2013). Interviewing users: how to uncover compelling insights. Rosenfeld Media. (In our library.)
 
 

@@ -2,7 +2,7 @@
 layout: page
 title:  "Design research vs. consultations"
 lang: en
-category: "About design research"
+category: "6. About design research"
 permalink: "/design-research-consultations/"
 trans_url: "/fr-needed/"
 ---

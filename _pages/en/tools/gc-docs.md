@@ -2,7 +2,7 @@
 layout: page
 title:  "GCDocs for protected digital files"
 lang: en
-category: "Tools"
+category: "5. Tools"
 permalink: "/gc-docs/"
 trans_url: "/gc-docs-fr/"
 ---
@@ -59,4 +59,3 @@ Any digital material that's [protected information]({{site.baseurl}}/privacy), i
 - Be careful not to store participant or research data on your MacBook.
 
 _- Last updated by Lucas on July 5, 2019_
-

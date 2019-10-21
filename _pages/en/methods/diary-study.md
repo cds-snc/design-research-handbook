@@ -2,13 +2,13 @@
 layout: page
 title:  "Diary study"
 lang: en
-category: "Methods"
+category: "4. Methods"
 permalink: "/diary-study/"
 trans_url: "/journal-de-bord/"
 ---
 
 ### What is a diary study?
-Diary studies are a qualitative method for collecting data about what people have done or felt when 
+Diary studies are a qualitative method for collecting data about what people have done or felt when
 interacting with a product or service. Diary studies account for the user experience over time, allowing researchers to evaluate, study and understand how a system is adopted and integrated into a person's everyday life.
 Unlike field observations, the diary study does not require the presence of an observer (thus limiting observational or acquiescence bias). As a design researcher, we want to capture the experience as close to the real thing as possible and not the one that is influenced by a controlled environment.
 The data collected helps us understand the users, their activities or the context in which they are located.

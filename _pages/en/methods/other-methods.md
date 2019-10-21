@@ -2,7 +2,7 @@
 layout: page
 title:  "Other methods"
 lang: en
-category: "Methods"
+category: "4. Methods"
 permalink: "/other-methods/"
 trans_url: "/autres-methodes/"
 ---

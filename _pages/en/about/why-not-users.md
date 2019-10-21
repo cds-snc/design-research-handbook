@@ -2,7 +2,7 @@
 layout: page
 title:  "Why we don't say 'users'"
 lang: en
-category: "About us"
+category: "1. About us"
 permalink: "/why-not-users/"
 trans_url: "/pourquoi-nous-utilisateurs/"
 ---

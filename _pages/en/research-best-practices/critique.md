@@ -3,13 +3,13 @@ layout: page
 title:  "Research critique"
 lang: en
 permalink: "/research-critique/"
-category: "Best practices"
+category: "3. Other best practices"
 trans_url: "/fr-needed/"
 ---
 
 ### Goals of research critique sessions
 
-* Improve our research skills and outputs. Both feedback givers and receivers should learn from critique. 
+* Improve our research skills and outputs. Both feedback givers and receivers should learn from critique.
 * Practice and model professional feedback giving. We have to give feedback to other product team members often. Critique provides a structured opportunity to practice that skill.
 
 ### Critique session agenda
@@ -41,8 +41,8 @@ During each half hour:
   * Don’t make edicts. You might have a better idea, but you shouldn’t issue orders to other people.
 * For recipients:
   * Do keep an open mind. Believe others might have a better idea than you do.
-  * Don’t be defensive. Your goal is to learn from others, not to defend your existing decisions. 
-* Watch your body language. 
-  * Receiving critique makes most people feel vulnerable. Givers should be encouraging and warm. 
-  * On the flip side, it’s hard to give honest feedback. Recipients should also encourage and thank givers. 
-* Don't say who said what in critique group. When sharing feedback to your team from critique group, say "my critique group said." not "[person] said." Likewise, don't expect external credit for what you suggest in a group. Ideas flow freely. 
+  * Don’t be defensive. Your goal is to learn from others, not to defend your existing decisions.
+* Watch your body language.
+  * Receiving critique makes most people feel vulnerable. Givers should be encouraging and warm.
+  * On the flip side, it’s hard to give honest feedback. Recipients should also encourage and thank givers.
+* Don't say who said what in critique group. When sharing feedback to your team from critique group, say "my critique group said." not "[person] said." Likewise, don't expect external credit for what you suggest in a group. Ideas flow freely.

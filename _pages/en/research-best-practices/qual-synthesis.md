@@ -3,7 +3,7 @@ layout: page
 title:  "Qualitative data synthesis/analysis"
 lang: en
 permalink: "/qual-synthesis/"
-category: "Methods"
+category: "3. Other best practices"
 trans_url: "/fr-needed/"
 ---
 
@@ -17,7 +17,7 @@ When we're conducting synthesis and analysis, we try to balance:
 
 ### Bad ways to do analysis
 * **Gut feelings**. It's good to ask people for their hot takes after research sessions. But that shouldn't be the end of the analysis. Gut feelings are particularly sensitive to bias. Hot takes often reflect our own assumptions more than the data.
-* **Finding a set of categories or findings that encompasses all the data**. You may not be able to find a set of categories that explains everything. 
+* **Finding a set of categories or findings that encompasses all the data**. You may not be able to find a set of categories that explains everything.
 
 ### Basic steps of analysis and synthesis
 In any tool (Trello, stickies, or spreadsheets), in any place (online, offline), the steps are the same.

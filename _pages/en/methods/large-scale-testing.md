@@ -2,7 +2,7 @@
 layout: page
 title:  "Large scale testing"
 lang: no
-category: "Methods"
+category: "4. Methods"
 permalink: "/large-scale-testing/"
 trans_url: "/fr-needed/"
 ---

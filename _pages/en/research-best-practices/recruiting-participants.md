@@ -3,7 +3,7 @@ layout: page
 title:  "Recruiting participants for moderated research studies"
 lang: en
 permalink: "/recruiting-participants/"
-category: "Best practices"
+category: "3. Other best practices"
 trans_url: "/recrutement-de-participants/"
 ---
 

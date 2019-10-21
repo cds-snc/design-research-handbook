@@ -3,7 +3,7 @@ layout: page
 title:  "Safety in the field"
 lang: en
 permalink: "/safety/"
-category: "Best practices"
+category: "3. Other best practices"
 trans_url: "/securite/"
 ---
 
@@ -16,10 +16,10 @@ _Not rules, but suggestions to consider as you’re planning research._
 - Arrange for appropriate transportation to and from the site.
 
 ### Before you head out
-- Don’t research without a buddy (both in-office and in-field). 
+- Don’t research without a buddy (both in-office and in-field).
 - Do a research 101 session with your team. Listen to their questions and concerns so they can be more comfortable in the field.
 - Discuss any concerns you have about your safety with teammates.
- 
+
 ### During the session
 - Make your role clear to the participant.
 - Communicate your expectations and limitations clearly. Is there anything you *don't* want participants to do?

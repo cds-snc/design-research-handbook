@@ -2,7 +2,7 @@
 layout: page
 title:  "Google Drive"
 lang: en
-category: "Tools"
+category: "5. Tools"
 permalink: "/google-drive/"
 trans_url: "/google-drive-fr/"
 ---
@@ -25,7 +25,7 @@ Google Drive is where we store non-protected documents like:
     - Raw research notes
     - Research session recordings
     - Job interviewee notes or evaluations
-    - Store this information in [GCDocs]({{site.baseurl}}/gc-docs) or our [secure filing cabinet]({{site.baseurl}}/secure-filing). 
+    - Store this information in [GCDocs]({{site.baseurl}}/gc-docs) or our [secure filing cabinet]({{site.baseurl}}/secure-filing).
 - Don't put product-specific research plans in the research Google Drive folder. Instead, put it in the Google Drive folder related to your product.
 
 ### Why do we do this?

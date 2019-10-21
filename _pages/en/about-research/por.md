@@ -3,7 +3,7 @@ layout: page
 title:  "Design research vs. public opinion research"
 lang: en
 permalink: "/por/"
-category: "About design research"
+category: "6. About design research"
 trans_url: "/rop/"
 ---
 

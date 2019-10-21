@@ -2,7 +2,7 @@
 layout: page
 title:  "Research templates"
 lang: en
-category: "Tools"
+category: "5. Tools"
 permalink: "/templates/"
 trans_url: "/les-modeles/"
 ---
@@ -15,7 +15,7 @@ trans_url: "/les-modeles/"
 
 ### During research
  - [Usability testing guide](https://docs.google.com/document/d/1rBnNrOFX2MBNVnE-nZUqg3CY8HTIlCzJCnbEzFIwSsw/edit?usp=sharing)
- 
+
 ### After research
  - Findings report (under construction)
  - Findings presentation (under construction)
