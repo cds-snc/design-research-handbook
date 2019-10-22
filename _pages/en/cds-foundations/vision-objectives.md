@@ -2,7 +2,7 @@
 layout: page
 title:  "Vision and objectives"
 lang: en
-category: "1. About us"
+category: "2. Foundations of CDS research"
 permalink: "/vision-objectives/"
 trans_url: "/vision-et-objectifs/"
 ---
