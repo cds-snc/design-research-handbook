@@ -9,8 +9,6 @@ trans_url: "/reunions-d-equipe/"
 
 ### Team meetings and rituals
 
-_Ask Colin for calendar invitations to these meetings if you don't already have them._
-
 * **Researcher team meeting on Thursdays from 3-4 PM ET**
  * Attendees: All researchers at CDS
  * Frequency: Every week
