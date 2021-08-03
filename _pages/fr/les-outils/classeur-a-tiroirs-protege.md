@@ -2,7 +2,7 @@
 layout: page
 title:  "Classeur à tiroirs protégé pour les données des participants"
 lang: fr
-category: "Les outils"
+category: "5. Les outils"
 permalink: "/classeur-a-tiroirs-protege/"
 trans_url: "/protected-files/"
 ---
