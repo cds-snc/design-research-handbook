@@ -2,7 +2,7 @@
 layout: page
 title:  "Trello pour le suivi des projets internes"
 lang: fr
-category: "Les outils"
+category: "5. Les outils"
 permalink: "/trello-fr/"
 trans_url: "/trello/"
 ---
