@@ -2,7 +2,7 @@
 layout: page
 title:  "Airtable pour le suivi de l’étude"
 lang: fr
-category: "Les outils"
+category: "5. Les outils"
 permalink: "/airtable-fr/"
 trans_url: "/airtable/"
 ---
