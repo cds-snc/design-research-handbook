@@ -4,7 +4,7 @@ title:  "Protection des renseignements personnels et consentement
 "
 lang: fr
 permalink: "/protection-des-renseignements-personnels/"
-category: "Les meilleures pratiques"
+category: "3. Les meilleures pratiques"
 trans_url: "/privacy/"
 ---
 Le présent guide décrit les processus de ressources qui vous permettent de réaliser une recherche éthique et conforme aux politiques.
