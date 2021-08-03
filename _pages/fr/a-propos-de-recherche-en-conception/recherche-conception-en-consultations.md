@@ -2,7 +2,7 @@
 layout: page
 title:  "Recherche sur la conception en comparaison aux consultations"
 lang: fr
-category: "2. À propos de la recherche en conception"
+category: "6. À propos de la recherche en conception"
 permalink: "/recherche-conception-consultations/"
 trans_url: "/design-research-consultations/"
 ---
