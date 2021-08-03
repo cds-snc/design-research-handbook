@@ -2,7 +2,7 @@
 layout: page
 title:  "Journal de bord"
 lang: fr
-category: "Méthodes"
+category: "4. Méthodes"
 permalink: "/journal-de-bord/"
 trans_url: "/diary-study/"
 ---
