@@ -2,7 +2,7 @@
 layout: page
 title:  "Équipement de recherche"
 lang: fr
-category: "Les outils"
+category: "5. Les outils"
 permalink: "/equipment-de-recherche/"
 trans_url: "/research-kit/"
 ---
