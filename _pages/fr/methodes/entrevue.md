@@ -2,7 +2,7 @@
 layout: page
 title:  "Entrevue"
 lang: fr
-category: "Méthodes"
+category: "4. Méthodes"
 permalink: "/entrevue/"
 trans_url: "/interviewing/"
 ---
