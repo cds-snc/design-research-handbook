@@ -4,7 +4,7 @@ title:  "Équipement de recherche"
 lang: fr
 category: "Les outils"
 permalink: "/equipment-de-recherche/"
-trans_url: "/equipment-for-research/"
+trans_url: "/research-kit/"
 ---
 
 ### En résumé
