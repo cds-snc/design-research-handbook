@@ -3,7 +3,7 @@ layout: page
 title:  "Sécurité sur le terrain"
 lang: fr
 permalink: "/securite/"
-category: "Les meilleures pratiques"
+category: "3. Les meilleures pratiques"
 trans_url: "/safety/"
 ---
 
