@@ -2,7 +2,7 @@
 layout: page
 title:  "Vision et objectifs"
 lang: fr
-category: "1. À propos de nous"
+category: "2. Fondements de la recherche à SNC"
 permalink: "/vision-et-objectifs/"
 trans_url: "/vision-objectives/"
 ---
