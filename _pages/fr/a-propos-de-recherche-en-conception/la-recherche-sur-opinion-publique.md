@@ -2,7 +2,7 @@
 layout: page
 title:  "Recherche sur la conception en comparaison à la recherche sur l’opinion publique"
 lang: fr
-category: "À propos de la recherche en conception"
+category: "2. À propos de la recherche en conception"
 permalink: "/rop/"
 trans_url: "/por/"
 ---
