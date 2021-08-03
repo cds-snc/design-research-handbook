@@ -2,7 +2,7 @@
 layout: page
 title:  "GCdocs pour les dossiers numériques protégés"
 lang: fr
-category: "Les outils"
+category: "5. Les outils"
 permalink: "/gc-docs-fr/"
 trans_url: "/gc-docs/"
 ---
