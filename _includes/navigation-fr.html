@@ -1,7 +1,7 @@
 <h2>Table des matières</h2>
-{% assign mydocs = site.pages | where:"lang","fr" | where:"layout","page" | group_by: 'category' %}
+{% assign mydocs = site.pages | where:"lang","fr" | where:"layout","page" | sort: 'category' | group_by: 'category' %}
 {% for cat in mydocs %}
-<h3>{{ cat.name | capitalize }}</h3>
+<h3>{{ cat.name }}</h3>
     <ul>
       {% assign items = cat.items | sort: 'title' %}
       {% for item in items %}
@@ -9,3 +9,4 @@
       {% endfor %}
     </ul>
 {% endfor %}
+
