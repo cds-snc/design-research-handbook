@@ -55,3 +55,5 @@ Dans l’ordre approximatif des succès du Service numérique canadien (SNC) sel
   - Nous évitons de recruter des amis et des membres de la famille pour qu’ils participent aux études. Les gens que nous recrutons par l’entremise de nos propres réseaux sont moins enclins à se montrer honnêtes avec nous. Ils sont plus susceptibles de nous ressembler. Cette approche est la plus efficace pour biaiser un échantillon.
   - Vous ne pouvez pas indemniser les amis ou les membres de la famille qui participent à la recherche.
   - Mais vous pouvez leur demander s’ils connaissent d’autres personnes qui pourraient nous aider (des gens que vous n’avez jamais rencontrés auparavant, mais qui connaissent les gens que vous fréquentez). Ces dernières peuvent toutefois ne pas constituer un échantillon aussi diversifié que celui de participants recrutés à l’aide d’autres méthodes.
+
+- La dernière mise à jour a été effectuée par Colin le 29 julliet 2019.
