@@ -18,4 +18,4 @@ Ce choix de mot semble insignifiant, mais il influence subtilement nos actions. 
 
 Ces règles ne sont pas absolues. Il existe toujours des situations où on a intérêt à dire « utilisateurs » et « conception centrée sur l’utilisateur ». Toutefois, soyons au courant des désavantages quant à l’utilisation de ces termes et des termes de rechange.
 
-_- Last updated by Colin on March 14, 2019_
+_– La dernière mise à jour a été effectuée par Colin le 14 mars 2019._

@@ -2,7 +2,7 @@
 layout: page
 title:  "Recherche sur la conception en comparaison à la collecte des exigences d’affaires"
 lang: fr
-category: "6. About design research"
+category: "6. À propos de la recherche en conception"
 permalink: "/collecte-exigences-affaires/"
 trans_url: "/design-research-biz-reqs/"
 ---

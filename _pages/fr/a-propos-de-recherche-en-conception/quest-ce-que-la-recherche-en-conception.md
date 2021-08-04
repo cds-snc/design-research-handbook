@@ -3,7 +3,7 @@ layout: page
 title:  "Qu’est-ce que la recherche en conception?"
 lang: fr
 category: "6. À propos de la recherche en conception"
-permalink: "recherche-en-conception/"
+permalink: "/recherche-en-conception/"
 trans_url: "/what-is-design-research/"
 ---
 

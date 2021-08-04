@@ -54,3 +54,5 @@ In rough order of CDS’s success with each tactic.
   * We avoid this recruiting friends and family to take part in studies. People we recruit via our own networks are less likely to be honest with us. They’re more likely to be like us. This method is the most likely way to bias our sample.
   * You cannot compensate friends or family who take part in research.
   * But, you can ask friends and family if they know others who might help us. (People who you haven’t met before, but know people you have.) Although they may not be as diverse as participants recruited other ways.
+
+_- Last updated by Colin on July 29, 2019_
