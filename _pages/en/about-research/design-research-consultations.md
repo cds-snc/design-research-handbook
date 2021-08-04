@@ -4,7 +4,7 @@ title:  "Design research vs. consultations"
 lang: en
 category: "6. About design research"
 permalink: "/design-research-consultations/"
-trans_url: "/fr-needed/"
+trans_url: "recherche-conception-consultations/"
 ---
 
 Design research is different than traditional government consultations.
