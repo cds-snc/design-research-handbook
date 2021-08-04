@@ -4,7 +4,7 @@ title:  "What is design research?"
 lang: en
 category: "6. About design research"
 permalink: "/what-is-design-research/"
-trans_url: "recherche-en-conception/"
+trans_url: "/recherche-en-conception/"
 ---
 
 ### Design research helps build services that meet human needs.
