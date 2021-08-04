@@ -2,7 +2,7 @@
 layout: page
 title:  "Pourquoi nous ne disons pas « utilisateurs »"
 lang: fr
-category: "À propos de nous"
+category: "3. Les meilleures pratiques"
 permalink: "/pourquoi-nous-utilisateurs/"
 trans_url: "/why-not-users/"
 ---

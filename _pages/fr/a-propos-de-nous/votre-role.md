@@ -2,7 +2,7 @@
 layout: page
 title:  "Votre rôle à titre de chercheur"
 lang: fr
-category: "À propos de nous"
+category: "1. À propos de nous"
 permalink: "/votre-role/"
 trans_url: "/your-role/"
 ---

@@ -2,7 +2,7 @@
 layout: page
 title:  "Salle de recherche"
 lang: fr
-category: "Les outils"
+category: "5. Les outils"
 permalink: "/salle-de-recherche/"
 trans_url: "/research-room/"
 ---

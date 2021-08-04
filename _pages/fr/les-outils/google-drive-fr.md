@@ -2,7 +2,7 @@
 layout: page
 title:  "Google Drive"
 lang: fr
-category: "Les outils"
+category: "5. Les outils"
 permalink: "/google-drive-fr/"
 trans_url: "/google-drive/"
 ---

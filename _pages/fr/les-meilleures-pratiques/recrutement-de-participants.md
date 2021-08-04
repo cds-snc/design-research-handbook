@@ -3,7 +3,7 @@ layout: page
 title:  "Recrutement de participants pour des études de recherche modérées"
 lang: fr
 permalink: "/recrutement-de-participants/"
-category: "Les meilleures pratiques"
+category: "3. Les meilleures pratiques"
 trans_url: "/recruiting-participants/"
 ---
 

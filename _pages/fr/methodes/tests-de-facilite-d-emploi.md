@@ -2,7 +2,7 @@
 layout: page
 title:  "Tests de facilité d’emploi"
 lang: fr
-category: "Méthodes"
+category: "4. Méthodes"
 permalink: "/tests-de-facilite-d-emploi/"
 trans_url: "/usability-testing/"
 ---

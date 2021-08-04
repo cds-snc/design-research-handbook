@@ -2,7 +2,7 @@
 layout: page
 title:  "À propos de nous"
 lang: fr
-category: "À propos de nous"
+category: "1. À propos de nous"
 permalink: "a-propos-de-nous/"
 trans_url: "/about-us/"
 ---
