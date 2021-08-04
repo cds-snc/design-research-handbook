@@ -4,7 +4,7 @@ title:  "Design research vs. business requirements gathering"
 lang: en
 category: "6. About design research"
 permalink: "/design-research-biz-reqs/"
-trans_url: "/fr-needed/"
+trans_url: "/collecte-exigences-affaires/"
 ---
 
 Design research is different than traditional business requirements gathering.
