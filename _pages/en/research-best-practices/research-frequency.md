@@ -4,7 +4,7 @@ title:  "Research frequency self-assessment"
 lang: en
 permalink: "/research-frequency/"
 category: "3. Other best practices"
-trans_url: "/fr-needed/"
+trans_url: "/fréquence-de-la-recherche/"
 ---
 ### Conduct research repeatedly through all phases of product development.
 Research isn't confined to one phase of product development. And each phase of product development should include more than one research study. For example:
