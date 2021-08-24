@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Performing Distributed Research"
+title:  "Exécution de la recherche décentralisée"
 lang: fr
 permalink: "/recherche-décentralisée/"
 category: "3. Les meilleures pratiques"
