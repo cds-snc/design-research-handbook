@@ -7,15 +7,10 @@ category: "3. Other best practices"
 trans_url: "/recherche-décentralisée/"
 ---
 
-Performing Distributed Research
-
-Design Research Community, last edit on December 2, 2020 \
-Resources, tools, methods to support distributed research endeavours
-
 
 ### What is distributed research?
 
-  Distributed or _remote research_ is the act of performing research with participants in different physical locations in order to gather insights, usually with the help of digital or telecommunication technologies. We cover the possible methods under**_ various methods possible._**
+  Distributed or _remote research_ is the act of performing research with participants in different physical locations in order to gather insights, usually with the help of digital or telecommunication technologies.
 
 
 ### Various research methods
