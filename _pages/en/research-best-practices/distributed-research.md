@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Performing Distributed Research"
+title:  "Performing distributed research"
 lang: en
 permalink: "/distributed-research/"
 category: "3. Other best practices"
