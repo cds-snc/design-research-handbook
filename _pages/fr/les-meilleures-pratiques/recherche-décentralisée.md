@@ -126,3 +126,7 @@ De quoi a-t-on besoin pour effectuer ce type de recherche décentralisée? Des b
 * [Consultez ce site Web entièrement consacré à la recherche à distance](https://remoteresear.ch/)
 * [Il s’agit d’un diaporama contenant la rétroaction des clients à distance](https://www.slideshare.net/uxdna/remote-customer-feedback)
 * [Feuille de calcul du Gov.uk pour la recherche décentralisée](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_PszsxLez8pu1kCyNYa5gOPLtntbLlE2WzbNYDx8qyf9EwvL1rJOBWXdORdnxkq9c3O_Jqk2RVO4j/pubhtml)
+
+– Dernière mise à jour effectuée le 2 décembre 2020 par Anne-Marie
+
+
