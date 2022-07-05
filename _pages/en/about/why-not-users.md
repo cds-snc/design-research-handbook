@@ -15,7 +15,7 @@ Let’s try to say…
 - *“people” instead of “users.”* Why?
     * People are more than users of our systems. When we refer to them as users, it's easy to forget their other, more important identities.
     * Users is an imprecise word. Which users? The public? The civil servants who support the system?
-- *“human-centred design” instead of “user-centred design.”* If we try to avoid saying users, we should also use the alternative to “user-entered design.”
+- *“human-centred design” instead of “user-centred design.”* If we try to avoid saying users, we should also use the alternative to “user-centred design.”
 
 - *design research* instead of *user research*.” If we try to avoid saying users, we should also use the alternative to “user research."
 

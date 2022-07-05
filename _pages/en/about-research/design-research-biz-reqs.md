@@ -26,7 +26,7 @@ Design research has a:
 
 Design research can complement traditional business requirements gathering.
 * Design research identifies existing constraints we most need to overcome. It builds evidence for what systems or regulations * need to change. BRG identifies those constraints, but often treats those constraints as a given.
-* Design research makes sure we're serving the public, and not just public servants. BRG surfaces what that matter to government departments. But without design research, BRG risks missing what matters to the public.
+* Design research makes sure we're serving the public, and not just public servants. BRG surfaces what matters to government departments. But without design research, BRG risks missing what matters to the public.
 * Design research helps us move from wants to needs. Design research focuses on what people need based on their behaviors, not wishes. BRG identifies wants, but design research helps figure out which wants are needs.
 * Design research minimizes risk throughout project development. With only up front BRG, we don't test our assumptions about what's helpful before a product goes live.
 
